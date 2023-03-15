@@ -1,0 +1,21 @@
+# Basic Libraries
+import numpy as np
+import pandas as pd
+import seaborn as sb
+import matplotlib.pyplot as plt # we only need pyplot
+sb.set() # set the default Seaborn style for graphics
+
+df = pd.read_csv('anime.csv')
+df.head()
+
+df.info()
+
+#Extracting all genres from the set, indicating with 1s and 0s
+df = df.dropna(subset=['genre'])
+
+genre_dummies = df['genre'].str.get_dummies(sep=',')
+
+df = pd.concat([df, genre_dummies], axis=1)
+
+#Converting Dataframe into a CSV file
+df.to_csv('animestuff2.csv', index=False)
