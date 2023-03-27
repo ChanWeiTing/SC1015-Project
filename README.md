@@ -7,3 +7,16 @@ This is a Mini-project for SC1015 which focus on games from game datavase. For d
 3. Data Resampling and Splitting
 4. Visualisation Regression
 5. Machine Learning Methods
+
+## Contributors
+
+## Problem Definition
+
+## Models Used
+
+## Conclusion
+
+## References
+- https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-ratings
+- https://github.com/nicklimmm/movie-analysis
+
