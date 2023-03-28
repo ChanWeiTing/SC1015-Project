@@ -23,4 +23,4 @@ This is a Mini-project for SC1015 which focus on games from game datavase. For d
 ## References
 - https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-ratings
 - https://github.com/nicklimmm/movie-analysis
-
+- https://pypi.org/project/pandas-profiling/#:~:text=About%20pandas%2Dprofiling&text=describe()%20function%2C%20that%20is,including%20time%2Dseries%20and%20text.
