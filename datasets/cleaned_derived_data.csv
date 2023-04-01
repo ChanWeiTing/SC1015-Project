@@ -128,7 +128,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 177,Final Fantasy X-2,PS2,2003.0,Role-Playing,Electronic Arts,1.92,1.08,2.11,0.17,5.29,85.0,45.0,6.6,400.0,SquareSoft,T,0,13.0,0,1
 179,Call of Duty: Advanced Warfare,XOne,2014.0,Shooter,Activision,3.22,1.55,0.01,0.48,5.27,81.0,53.0,5.4,898.0,Sledgehammer Games,M,0,2.0,0,1
 181,Assassin's Creed II,X360,2009.0,Action,Ubisoft,3.11,1.55,0.08,0.51,5.26,90.0,82.0,8.8,1305.0,Ubisoft Montreal,M,1,7.0,1,1
-183,Madden NFL 2004,PS2,,Sports,Electronic Arts,4.26,0.26,0.01,0.71,5.23,94.0,29.0,8.5,140.0,EA Tiburon,E,1,,1,1
 185,New Super Mario Bros. U,WiiU,2012.0,Platform,Nintendo,2.3,1.34,1.27,0.32,5.22,84.0,70.0,8.1,733.0,Nintendo,E,1,4.0,1,1
 186,Dragon Quest VIII: Journey of the Cursed King,PS2,2004.0,Role-Playing,Square Enix,0.65,0.75,3.61,0.2,5.21,89.0,63.0,8.8,245.0,Level 5,T,1,12.0,0,1
 188,Professor Layton and the Curious Village,DS,2007.0,Puzzle,Nintendo,1.21,2.43,1.03,0.52,5.19,85.0,72.0,8.6,147.0,Level 5,E,1,9.0,0,1
@@ -255,7 +254,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 373,Assassin's Creed: Unity,XOne,2014.0,Action,Ubisoft,2.27,0.9,0.0,0.33,3.5,72.0,59.0,4.1,1005.0,"Ubisoft, Ubisoft Montreal",M,0,2.0,0,1
 375,Resident Evil 5,X360,2009.0,Action,Capcom,2.11,0.93,0.12,0.34,3.5,83.0,91.0,7.5,523.0,Capcom,M,0,7.0,1,1
 376,Assassin's Creed: Brotherhood,X360,2010.0,Action,Ubisoft,2.85,0.38,0.03,0.24,3.49,89.0,81.0,8.3,693.0,Ubisoft Montreal,M,1,6.0,1,1
-377,FIFA Soccer 2004,PS2,,Sports,Electronic Arts,0.59,2.36,0.04,0.51,3.49,84.0,20.0,6.4,76.0,EA Canada,E,0,,1,1
 378,Battlefield 4,PS3,2013.0,Shooter,Electronic Arts,1.3,1.42,0.27,0.5,3.49,80.0,14.0,5.8,579.0,EA DICE,M,0,3.0,0,1
 379,Batman: Arkham Asylum,X360,2009.0,Action,Eidos Interactive,2.2,0.95,0.02,0.31,3.48,92.0,78.0,8.7,1080.0,Rocksteady Studios,T,1,7.0,0,1
 380,Battlefield 4,X360,2013.0,Shooter,Electronic Arts,2.15,1.01,0.02,0.31,3.48,79.0,21.0,5.6,542.0,EA DICE,M,0,3.0,0,1
@@ -310,7 +308,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 451,Dragon Ball Z: Budokai,PS2,2002.0,Fighting,Atari,2.17,0.28,0.55,0.08,3.09,67.0,28.0,7.9,71.0,Dimps Corporation,T,0,14.0,0,1
 452,Madden NFL 2002,PS2,2001.0,Sports,Electronic Arts,2.5,0.16,0.01,0.42,3.08,94.0,23.0,7.9,46.0,EA Sports,E,0,15.0,1,1
 455,The Sims: Vacation,PC,2002.0,Simulation,Electronic Arts,1.72,1.21,0.0,0.14,3.07,75.0,18.0,7.8,22.0,Maxis,T,0,14.0,0,1
-456,LEGO Batman: The Videogame,Wii,,Action,Warner Bros. Interactive Entertainment,1.8,0.97,0.0,0.29,3.06,74.0,17.0,7.9,22.0,Traveller's Tales,E10+,0,,1,1
 457,Animal Crossing: Happy Home Designer,3DS,2015.0,Simulation,Nintendo,0.51,1.02,1.4,0.12,3.05,66.0,60.0,6.9,106.0,Nintendo,E,0,1.0,1,1
 458,The Sims 4,PC,2014.0,Simulation,Electronic Arts,1.0,1.82,0.0,0.23,3.05,70.0,74.0,3.9,2057.0,Maxis,T,0,2.0,0,1
 459,Borderlands 2,X360,2012.0,Shooter,Take-Two Interactive,1.89,0.88,0.04,0.25,3.05,89.0,59.0,8.2,892.0,Gearbox Software,M,1,4.0,0,1
@@ -426,7 +423,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 623,Bloodborne,PS4,2015.0,Action,Sony Computer Entertainment,1.03,0.81,0.26,0.38,2.48,92.0,100.0,8.6,6383.0,From Software,M,1,1.0,0,1
 625,Mario Party 4,GC,2002.0,Misc,Nintendo,1.13,0.36,0.92,0.07,2.47,70.0,26.0,7.4,74.0,Hudson,E,0,14.0,0,1
 626,Pure,X360,2008.0,Racing,Disney Interactive Studios,1.38,0.84,0.0,0.25,2.47,85.0,55.0,7.7,83.0,Black Rock Studio,E,0,8.0,0,1
-627,Rock Band,X360,,Misc,Electronic Arts,1.93,0.33,0.0,0.21,2.47,92.0,72.0,8.2,178.0,Harmonix Music Systems,T,1,,0,1
 628,NBA 2K13,PS3,2012.0,Sports,Take-Two Interactive,1.73,0.43,0.05,0.27,2.47,90.0,26.0,8.0,99.0,Visual Concepts,E,1,4.0,1,1
 629,Saints Row: The Third,PS3,2011.0,Action,THQ,0.86,1.04,0.18,0.38,2.47,82.0,50.0,7.7,384.0,Volition Inc.,M,0,5.0,0,1
 630,Resistance 2,PS3,2008.0,Shooter,Sony Computer Entertainment,1.15,0.84,0.1,0.38,2.46,87.0,79.0,6.1,1889.0,Insomniac Games,M,0,8.0,0,1
@@ -457,7 +453,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 675,Kinect: Disneyland Adventures,X360,2011.0,Misc,Microsoft Game Studios,1.73,0.43,0.02,0.17,2.35,73.0,33.0,2.9,67.0,Frontier Developments,E10+,0,5.0,0,1
 676,WWE SmackDown vs Raw 2008,PS2,2007.0,Fighting,THQ,0.92,0.0,0.01,1.41,2.34,71.0,11.0,7.2,31.0,Yuke's,T,0,9.0,0,1
 677,The Legend of Zelda: Majora's Mask 3D,3DS,2015.0,Action,Nintendo,1.15,0.55,0.47,0.17,2.34,89.0,82.0,9.0,478.0,GREZZO,E10+,1,1.0,0,1
-678,LEGO Indiana Jones: The Original Adventures,Wii,,Action,LucasArts,1.51,0.61,0.0,0.21,2.34,78.0,22.0,6.6,28.0,Traveller's Tales,E10+,0,,1,1
 679,Resident Evil - Code: Veronica X,PS2,2001.0,Action,Capcom,1.08,0.7,0.34,0.21,2.34,84.0,21.0,8.4,189.0,Capcom,M,1,15.0,1,1
 680,NBA 2K16,XOne,2015.0,Sports,Take-Two Interactive,1.95,0.15,0.0,0.24,2.34,86.0,14.0,6.2,115.0,Visual Concepts,E10+,0,1.0,1,1
 681,Kinect Sports: Season Two,X360,2011.0,Sports,Microsoft Game Studios,1.38,0.72,0.02,0.22,2.34,66.0,46.0,6.5,39.0,"Rare Ltd., BigPark",E,0,5.0,0,1
@@ -486,7 +481,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 715,Guitar Hero III: Legends of Rock,PS3,2007.0,Misc,Activision,1.4,0.53,0.02,0.3,2.24,83.0,45.0,7.8,52.0,Neversoft Entertainment,T,0,9.0,0,1
 716,Sonic Advance,GBA,2001.0,Platform,Sega,1.19,0.71,0.22,0.13,2.24,87.0,22.0,8.1,48.0,Sonic Team,E,1,15.0,0,1
 717,Super Monkey Ball: Banana Blitz,Wii,2006.0,Misc,Sega,1.05,0.91,0.04,0.24,2.24,74.0,53.0,5.7,72.0,Sega,E,0,10.0,0,1
-719,Call of Duty 3,Wii,,Shooter,Activision,1.17,0.84,0.0,0.23,2.24,69.0,42.0,6.7,61.0,Exakt,T,0,,0,1
 720,New Super Luigi U,WiiU,2013.0,Platform,Nintendo,1.25,0.62,0.18,0.18,2.24,77.0,59.0,7.9,288.0,Nintendo,E,0,3.0,1,1
 722,Spyro: Season of Ice,GBA,2001.0,Platform,Vivendi Games,1.29,0.83,0.0,0.11,2.23,74.0,16.0,8.0,13.0,Digital Eclipse,E,1,15.0,0,1
 723,Dissidia: Final Fantasy,PSP,2008.0,Fighting,Square Enix,0.51,0.5,0.91,0.31,2.23,79.0,61.0,8.0,139.0,Square Enix,T,1,8.0,0,1
@@ -539,7 +533,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 801,Tetris Worlds,PS2,2002.0,Puzzle,THQ,1.11,0.71,0.0,0.27,2.08,44.0,7.0,6.2,11.0,Blue Planet Software,E,0,14.0,0,1
 802,Final Fantasy III,DS,2006.0,Role-Playing,Square Enix,0.89,0.04,1.07,0.09,2.08,77.0,45.0,7.1,136.0,Matrix Software,E10+,0,10.0,0,1
 804,Mario Party 5,GC,2003.0,Misc,Nintendo,0.97,0.33,0.73,0.06,2.08,69.0,33.0,8.2,57.0,Hudson,E,1,13.0,0,1
-805,Rock Band,Wii,,Misc,MTV Games,1.33,0.56,0.0,0.2,2.08,80.0,21.0,6.3,37.0,Harmonix Music Systems,T,0,,0,1
 808,Portal 2,X360,2011.0,Shooter,Valve Software,1.41,0.49,0.01,0.17,2.08,95.0,66.0,8.5,997.0,Valve Software,E10+,1,5.0,0,1
 809,Mario Sports Mix,Wii,2010.0,Sports,Nintendo,0.88,0.44,0.63,0.12,2.08,64.0,54.0,7.1,34.0,Square Enix,E,0,6.0,0,1
 810,Need for Speed: Most Wanted 5-1-0,PSP,2005.0,Racing,Electronic Arts,1.77,0.12,0.02,0.17,2.07,72.0,21.0,7.8,54.0,EA Canada,E10+,0,11.0,1,1
@@ -743,7 +736,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1127,Beyond: Two Souls,PS3,2013.0,Adventure,Sony Computer Entertainment,0.52,0.8,0.06,0.26,1.63,70.0,98.0,8.1,2652.0,Quantic Dream,M,1,3.0,0,1
 1128,Pikmin,GC,2001.0,Strategy,Nintendo,0.78,0.25,0.56,0.04,1.63,89.0,39.0,8.7,121.0,Nintendo,E,1,15.0,1,1
 1129,Tiger Woods PGA Tour 2004,PS2,2003.0,Sports,Electronic Arts,1.18,0.34,0.0,0.1,1.63,89.0,23.0,8.8,40.0,EA Sports,E,1,13.0,1,1
-1131,Call of Duty: Black Ops,PC,,Shooter,Activision,0.58,0.81,0.0,0.23,1.63,81.0,29.0,5.2,1651.0,Treyarch,M,0,,0,1
 1132,Ape Escape,PS,1999.0,Platform,Sony Computer Entertainment,0.71,0.48,0.32,0.11,1.63,90.0,19.0,8.8,53.0,SCEI,E,1,17.0,0,1
 1133,NCAA Football 2005,PS2,2004.0,Sports,Electronic Arts,1.32,0.09,0.0,0.22,1.62,88.0,29.0,8.8,35.0,EA Tiburon,E,1,12.0,1,1
 1134,Max Payne 3,X360,2012.0,Shooter,Take-Two Interactive,0.86,0.62,0.01,0.13,1.62,86.0,80.0,7.8,869.0,Rockstar Studios,M,0,4.0,0,1
@@ -751,7 +743,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1137,Kinectimals,X360,2010.0,Simulation,Microsoft Game Studios,1.02,0.46,0.0,0.13,1.62,74.0,50.0,3.1,69.0,Frontier Developments,E,0,6.0,0,1
 1138,Kirby Air Ride,GC,2003.0,Racing,Nintendo,1.01,0.11,0.45,0.04,1.62,61.0,28.0,7.9,69.0,HAL Labs,E,0,13.0,0,1
 1139,LEGO Marvel Super Heroes,PS4,2013.0,Action,Warner Bros. Interactive Entertainment,0.59,0.76,0.01,0.26,1.62,83.0,22.0,7.7,262.0,TT Games,E10+,0,3.0,0,1
-1142,Rock Band,PS3,,Misc,Electronic Arts,0.99,0.41,0.0,0.22,1.62,92.0,35.0,8.4,107.0,Harmonix Music Systems,T,1,,0,1
 1143,Dragon Quest IV: Chapters of the Chosen,DS,2007.0,Role-Playing,Square Enix,0.3,0.02,1.27,0.03,1.62,80.0,44.0,7.9,50.0,ArtePiazza,E10+,0,9.0,0,1
 1144,NFL Street 2,PS2,2004.0,Sports,Electronic Arts,0.79,0.62,0.0,0.21,1.61,77.0,33.0,8.7,20.0,EA Tiburon,E,1,12.0,1,1
 1147,Super Mario Strikers,GC,2005.0,Sports,Nintendo,0.98,0.38,0.2,0.04,1.61,76.0,39.0,8.7,55.0,Next Level Games,E,1,11.0,0,1
@@ -992,7 +983,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1533,EA Playground,Wii,2007.0,Sports,Electronic Arts,0.68,0.47,0.0,0.13,1.29,66.0,32.0,7.6,30.0,EA Canada,E,0,9.0,1,1
 1536,The Elder Scrolls Online,XOne,2015.0,Role-Playing,Bethesda Softworks,0.78,0.38,0.0,0.12,1.28,77.0,11.0,8.4,613.0,ZeniMax Media,M,1,1.0,0,1
 1537,Champions of Norrath,PS2,2004.0,Role-Playing,Sony Online Entertainment,0.63,0.49,0.0,0.16,1.28,85.0,51.0,8.4,57.0,Snowblind Studios,T,1,12.0,0,1
-1538,LEGO Batman: The Videogame,PSP,,Action,Warner Bros. Interactive Entertainment,0.57,0.44,0.0,0.27,1.28,73.0,5.0,7.4,10.0,Traveller's Tales,E10+,0,,1,1
 1543,Manhunt,PS2,2003.0,Action,Take-Two Interactive,0.63,0.49,0.0,0.16,1.28,76.0,47.0,8.3,136.0,Rockstar North,M,1,13.0,0,1
 1544,Need for Speed Carbon,Wii,2006.0,Racing,Electronic Arts,0.45,0.66,0.02,0.15,1.28,67.0,21.0,7.3,26.0,EA Canada,E10+,0,10.0,1,1
 1545,Silent Hill 2,PS2,2001.0,Action,Konami Digital Entertainment,0.62,0.49,0.0,0.16,1.28,89.0,34.0,8.9,557.0,KCET,M,1,15.0,0,1
@@ -1041,7 +1031,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1605,Oddworld: Abe's Oddysee,PS,1997.0,Platform,GT Interactive,0.75,0.44,0.0,0.06,1.24,85.0,10.0,9.0,96.0,Oddworld Inhabitants,T,1,19.0,0,1
 1606,Ridge Racer V,PS2,2000.0,Action,Namco Bandai Games,0.24,0.19,0.75,0.06,1.24,78.0,20.0,7.7,6.0,Namco,E,0,16.0,1,1
 1607,WWE SmackDown vs. Raw 2009,PS2,2008.0,Fighting,THQ,0.69,0.0,0.0,0.55,1.24,78.0,9.0,6.9,34.0,Yuke's,T,0,8.0,0,1
-1609,LEGO Harry Potter: Years 5-7,Wii,,Action,Warner Bros. Interactive Entertainment,0.69,0.42,0.0,0.12,1.24,76.0,8.0,7.8,13.0,Traveller's Tales,E10+,0,,1,1
 1610,Star Wars Episode III: Revenge of the Sith,XB,2005.0,Action,Activision,0.82,0.38,0.0,0.04,1.24,61.0,44.0,8.1,54.0,Double Helix Games,T,1,11.0,0,1
 1611,[Prototype],PS3,2009.0,Action,Activision,0.65,0.4,0.0,0.19,1.24,79.0,53.0,7.7,308.0,Radical Entertainment,M,0,7.0,0,1
 1613,FIFA Street,PS3,2012.0,Sports,Electronic Arts,0.12,0.89,0.0,0.23,1.23,76.0,36.0,6.4,66.0,EA Sports,E,0,4.0,1,1
@@ -1064,7 +1053,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1645,Golden Sun: The Lost Age,GBA,2002.0,Role-Playing,Nintendo,0.61,0.27,0.27,0.07,1.22,86.0,29.0,9.5,150.0,Camelot Software Planning,E,1,14.0,0,1
 1647,Max Payne,XB,2001.0,Shooter,Take-Two Interactive,0.98,0.19,0.0,0.05,1.22,89.0,24.0,8.3,61.0,neo Software,M,1,15.0,0,1
 1649,NBA 2K2,PS2,2002.0,Sports,Sega,0.59,0.46,0.01,0.15,1.22,89.0,19.0,7.8,16.0,Visual Concepts,E,0,14.0,1,1
-1650,NASCAR Thunder 2003,PS2,,Racing,Unknown,0.6,0.46,0.0,0.16,1.22,84.0,16.0,8.7,17.0,EA Sports,E,1,,1,1
 1651,Cars,PS2,2006.0,Racing,THQ,1.01,0.04,0.0,0.16,1.21,71.0,30.0,8.4,12.0,Rainbow Studios,E,1,10.0,0,1
 1652,Fuzion Frenzy,XB,2001.0,Misc,Microsoft Game Studios,0.93,0.24,0.0,0.04,1.21,70.0,28.0,6.9,16.0,Blitz Games,E,0,15.0,0,1
 1653,Call of Duty: Finest Hour,XB,2004.0,Shooter,Activision,0.78,0.4,0.0,0.04,1.21,73.0,55.0,7.8,22.0,Spark Unlimited,T,0,12.0,0,1
@@ -1096,7 +1084,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1693,Pro Evolution Soccer 2008,Wii,2008.0,Sports,Konami Digital Entertainment,0.09,0.84,0.11,0.15,1.19,83.0,19.0,8.4,43.0,Konami,E,1,8.0,1,1
 1694,Destiny: The Taken King,XOne,2015.0,Shooter,Activision,0.85,0.23,0.0,0.12,1.19,89.0,11.0,5.2,393.0,"Bungie Software, Bungie",T,0,1.0,0,1
 1695,Scarface: The World is Yours,PS2,2006.0,Action,Vivendi Games,0.99,0.04,0.0,0.16,1.19,75.0,46.0,8.6,113.0,Radical Entertainment,M,1,10.0,0,1
-1699,Hitman 2: Silent Assassin,XB,,Action,Eidos Interactive,0.76,0.38,0.0,0.05,1.19,84.0,23.0,8.0,19.0,Io Interactive,M,1,,0,1
 1701,WWE SmackDown vs Raw 2008,PSP,2007.0,Fighting,THQ,0.45,0.47,0.0,0.28,1.19,68.0,11.0,7.8,15.0,Yuke's,T,0,9.0,0,1
 1702,Spider-Man: The Movie,GC,2002.0,Action,Activision,0.86,0.27,0.01,0.04,1.19,76.0,14.0,7.3,11.0,Treyarch,E,0,14.0,0,1
 1704,Mario vs. Donkey Kong 2: March of the Minis,DS,2006.0,Puzzle,Nintendo,0.73,0.03,0.36,0.07,1.19,76.0,32.0,7.9,17.0,"Nintendo, Nintendo Software Technology",E,0,10.0,0,1
@@ -1185,7 +1172,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1836,Counter-Strike,XB,2003.0,Shooter,Microsoft Game Studios,0.85,0.23,0.0,0.04,1.11,74.0,38.0,7.6,51.0,Valve Software,M,0,13.0,0,1
 1838,Guitar Hero Encore: Rocks The 80s,PS2,2007.0,Misc,RedOctane,0.92,0.04,0.0,0.15,1.11,69.0,50.0,6.3,31.0,Harmonix Music Systems,T,0,9.0,0,1
 1839,Fight Night Champion,PS3,2011.0,Fighting,Electronic Arts,0.45,0.49,0.0,0.18,1.11,84.0,52.0,7.3,95.0,EA Canada,M,0,5.0,1,1
-1840,Rock Band,PS2,,Misc,Electronic Arts,0.71,0.06,0.0,0.35,1.11,82.0,8.0,6.8,13.0,Harmonix Music Systems,T,0,,0,1
 1841,Tom Clancy's Splinter Cell: Chaos Theory,XB,2005.0,Action,Ubisoft,0.68,0.38,0.0,0.05,1.11,94.0,70.0,9.0,160.0,Ubisoft Montreal,M,1,11.0,1,1
 1846,Pikmin 3,WiiU,2013.0,Strategy,Nintendo,0.44,0.32,0.29,0.07,1.11,87.0,79.0,8.7,664.0,Nintendo,E10+,1,3.0,1,1
 1847,WWE 2K14,X360,2013.0,Sports,Take-Two Interactive,0.64,0.37,0.0,0.1,1.11,75.0,43.0,7.7,100.0,Yuke's,T,0,3.0,0,1
@@ -1270,7 +1256,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 1979,Forza Motorsport,XB,2005.0,Racing,Microsoft Game Studios,0.52,0.51,0.0,0.02,1.05,92.0,73.0,7.6,213.0,Microsoft Game Studios,E,0,11.0,0,1
 1980,Virtua Tennis 3,PS3,2007.0,Sports,Sega,0.23,0.58,0.03,0.21,1.05,80.0,35.0,7.9,32.0,Sega AM3,E,0,9.0,0,1
 1982,MVP Baseball 2003,PS2,2003.0,Sports,Electronic Arts,0.51,0.4,0.0,0.13,1.04,81.0,22.0,8.9,17.0,EA Sports,E,1,13.0,1,1
-1984,Legacy of Kain: Soul Reaver,PS,,Action,Eidos Interactive,0.58,0.4,0.0,0.07,1.04,91.0,17.0,9.0,132.0,Crystal Dynamics,T,1,,0,1
 1985,WWE SmackDown vs. Raw 2010,X360,2009.0,Fighting,THQ,0.56,0.37,0.01,0.1,1.04,80.0,59.0,8.4,36.0,Yuke's,T,1,7.0,0,1
 1987,Sleeping Dogs,PS3,2012.0,Action,Square Enix,0.31,0.49,0.05,0.19,1.04,83.0,40.0,7.7,645.0,United Front Games,M,0,4.0,0,1
 1990,Naruto: Clash of Ninja 2,GC,2003.0,Fighting,Nintendo,0.44,0.12,0.45,0.03,1.04,74.0,22.0,8.9,39.0,8ing/Raizing,T,1,13.0,0,1
@@ -1354,7 +1339,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2103,Zoo Tycoon DS,DS,2005.0,Strategy,THQ,0.86,0.03,0.01,0.08,0.98,44.0,19.0,6.6,25.0,Altron,E,0,11.0,0,1
 2105,WWE SmackDown vs Raw 2008,Wii,2007.0,Fighting,THQ,0.38,0.5,0.0,0.11,0.98,59.0,13.0,5.9,18.0,Yuke's,T,0,9.0,0,1
 2107,Dead Space 3,X360,2013.0,Action,Electronic Arts,0.64,0.26,0.0,0.08,0.98,78.0,68.0,6.4,694.0,Visceral Games,M,0,3.0,0,1
-2108,Suikoden III,PS2,,Role-Playing,Unknown,0.29,0.23,0.38,0.08,0.98,86.0,23.0,7.7,113.0,KCET,T,0,,0,1
 2110,Tom Clancy's Splinter Cell: Blacklist,X360,2013.0,Action,Ubisoft,0.57,0.32,0.01,0.08,0.98,82.0,58.0,7.5,383.0,Ubisoft Toronto,M,0,3.0,0,1
 2112,NBA 2K10,X360,2009.0,Sports,Take-Two Interactive,0.88,0.02,0.0,0.08,0.97,82.0,46.0,7.6,34.0,Visual Concepts,E,0,7.0,1,1
 2113,NCAA Football 06,XB,2005.0,Sports,Electronic Arts,0.73,0.21,0.0,0.03,0.97,87.0,38.0,8.3,27.0,EA Sports,E,1,11.0,1,1
@@ -1370,7 +1354,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2127,Cars,DS,2006.0,Racing,THQ,0.85,0.04,0.0,0.07,0.97,54.0,17.0,2.1,11.0,Helixe,E,0,10.0,0,1
 2128,Band Hero,Wii,2009.0,Misc,Activision,0.59,0.29,0.0,0.09,0.97,79.0,20.0,6.6,15.0,Vicarious Visions,E10+,0,7.0,1,1
 2130,Skylanders: Spyro's Adventure,X360,2011.0,Action,Activision,0.53,0.34,0.0,0.1,0.97,78.0,35.0,5.2,53.0,Toys for Bob,E10+,0,5.0,0,1
-2132,LEGO Harry Potter: Years 5-7,X360,,Action,Warner Bros. Interactive Entertainment,0.51,0.37,0.0,0.09,0.97,77.0,35.0,7.9,39.0,Traveller's Tales,E10+,0,,1,1
 2133,LEGO Star Wars II: The Original Trilogy,GC,2006.0,Action,LucasArts,0.75,0.19,0.0,0.03,0.97,84.0,25.0,9.1,16.0,Traveller's Tales,E10+,1,10.0,1,1
 2134,Medal of Honor: Underground,PS,2000.0,Shooter,Electronic Arts,0.54,0.37,0.0,0.06,0.97,86.0,16.0,9.0,44.0,Dreamworks Interactive,T,1,16.0,0,1
 2135,Dark Cloud 2,PS2,2002.0,Role-Playing,Sony Computer Entertainment,0.38,0.25,0.26,0.07,0.96,87.0,41.0,9.1,174.0,Level 5,T,1,14.0,0,1
@@ -1396,7 +1379,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2162,SpongeBob SquarePants: Battle for Bikini Bottom,GC,2003.0,Platform,THQ,0.74,0.19,0.0,0.03,0.95,71.0,10.0,8.6,34.0,Heavy Iron Studios,E,1,13.0,0,1
 2164,PlayStation All-Stars Battle Royale,PS3,2012.0,Action,Sony Computer Entertainment,0.5,0.27,0.04,0.15,0.95,74.0,69.0,7.3,540.0,SuperBot Entertainment,T,0,4.0,0,1
 2168,Pro Evolution Soccer 2014,PS3,2013.0,Action,Konami Digital Entertainment,0.03,0.41,0.51,0.0,0.95,78.0,39.0,4.1,303.0,Konami,E,0,3.0,1,1
-2169,Yakuza 4,PS3,,Action,Sega,0.15,0.13,0.63,0.05,0.95,78.0,59.0,8.0,177.0,Ryu ga Gotoku Studios,M,1,,0,1
 2171,Tom Clancy's Ghost Recon: Future Soldier,PS3,2012.0,Shooter,Ubisoft,0.41,0.32,0.09,0.12,0.95,79.0,18.0,6.9,156.0,Ubisoft Paris,M,0,4.0,0,1
 2172,Kessen,PS2,2000.0,Strategy,Electronic Arts,0.27,0.21,0.41,0.07,0.95,75.0,20.0,8.4,12.0,Koei,T,1,16.0,0,1
 2173,Driver: San Francisco,PS3,2011.0,Racing,Ubisoft,0.24,0.52,0.01,0.18,0.95,79.0,53.0,7.7,114.0,Ubisoft Reflections,T,0,5.0,0,1
@@ -1461,7 +1443,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2268,EA Sports Active 2,PS3,2010.0,Sports,Electronic Arts,0.52,0.27,0.0,0.12,0.91,78.0,20.0,5.4,14.0,EA Canada,E,0,6.0,1,1
 2270,Knockout Kings 2002,PS2,2002.0,Sports,Electronic Arts,0.45,0.35,0.0,0.12,0.91,76.0,23.0,8.1,12.0,Electronic Arts,T,1,14.0,1,1
 2272,Tom Clancy's EndWar,X360,2008.0,Strategy,Ubisoft,0.58,0.24,0.01,0.09,0.91,77.0,63.0,7.2,53.0,Ubisoft Shanghai,T,0,8.0,0,1
-2273,LEGO Harry Potter: Years 5-7,PS3,,Action,Warner Bros. Interactive Entertainment,0.36,0.41,0.0,0.15,0.91,76.0,27.0,8.3,48.0,Traveller's Tales,E10+,1,,1,1
 2274,Tokyo Xtreme Racer 3,PS2,2003.0,Racing,Genki,0.35,0.27,0.21,0.09,0.91,63.0,15.0,8.9,23.0,Genki,E,1,13.0,0,1
 2275,Xenoblade Chronicles,Wii,2010.0,Role-Playing,Nintendo,0.43,0.25,0.16,0.07,0.91,92.0,59.0,8.9,950.0,Monolith Soft,T,1,6.0,0,1
 2278,Colin McRae Rally 2.0,PS,2000.0,Racing,Codemasters,0.02,0.8,0.02,0.07,0.91,90.0,13.0,8.7,31.0,Codemasters,E,1,16.0,1,1
@@ -1581,7 +1562,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2450,Army of Two: The 40th Day,PS3,2010.0,Shooter,Electronic Arts,0.44,0.27,0.01,0.12,0.85,74.0,56.0,7.0,88.0,EA Montreal,M,0,6.0,0,1
 2451,Darksiders II,PS3,2012.0,Action,THQ,0.35,0.35,0.01,0.14,0.84,84.0,39.0,7.1,422.0,Vigil Games,M,0,4.0,0,1
 2452,Spider-Man 2,GC,2004.0,Action,Activision,0.65,0.17,0.0,0.02,0.84,80.0,41.0,8.8,30.0,Treyarch,T,1,12.0,0,1
-2453,The Lord of the Rings: War in the North,X360,,Action,Warner Bros. Interactive Entertainment,0.52,0.24,0.0,0.08,0.84,61.0,48.0,7.4,113.0,Snowblind Studios,M,0,,0,1
 2454, Tales of Xillia 2,PS3,2012.0,Role-Playing,Namco Bandai Games,0.2,0.12,0.45,0.07,0.84,71.0,59.0,7.9,216.0,Bandai Namco Games,T,0,4.0,0,1
 2455,Ghostbusters: The Video Game,PS3,2009.0,Action,Sony Computer Entertainment,0.34,0.36,0.0,0.14,0.84,78.0,74.0,7.9,96.0,Terminal Reality,T,0,7.0,0,1
 2456,The Incredibles,GC,2004.0,Action,THQ,0.65,0.17,0.0,0.02,0.84,63.0,27.0,7.1,7.0,Heavy Iron Studios,T,0,12.0,0,1
@@ -1599,7 +1579,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2475,Blazing Angels: Squadrons of WWII,Wii,2007.0,Simulation,Ubisoft,0.74,0.04,0.0,0.06,0.83,57.0,11.0,6.7,28.0,Ubisoft,T,0,9.0,1,1
 2476,Madden NFL 09 All-Play,Wii,2008.0,Sports,Electronic Arts,0.76,0.01,0.0,0.06,0.83,82.0,19.0,7.2,22.0,EA Tiburon,E,0,8.0,1,1
 2478,Dynasty Warriors 2,PS2,2000.0,Action,THQ,0.24,0.19,0.34,0.06,0.83,75.0,17.0,8.8,24.0,Omega Force,T,1,16.0,1,1
-2479,Madden NFL 07,PSP,,Sports,Unknown,0.77,0.03,0.0,0.04,0.83,78.0,18.0,6.6,16.0,EA Tiburon,E,0,,1,1
 2480,Time Crisis 4,PS3,2007.0,Shooter,Namco Bandai Games,0.32,0.32,0.05,0.14,0.83,60.0,52.0,7.4,21.0,Nex Entertainment,T,0,9.0,0,1
 2481,Duke Nukem Forever,X360,2011.0,Shooter,Take-Two Interactive,0.52,0.25,0.0,0.07,0.83,49.0,76.0,4.4,456.0,"Gearbox Software, 3D Realms",M,0,5.0,0,1
 2482,Lizzie McGuire 2: Lizzie Diaries,GBA,2004.0,Action,Disney Interactive Studios,0.6,0.22,0.0,0.01,0.83,57.0,6.0,5.0,5.0,Artificial Mind and Movement,E,0,12.0,0,1
@@ -1608,7 +1587,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2486,Tiger Woods PGA Tour 11,PS3,2010.0,Sports,Electronic Arts,0.37,0.33,0.0,0.13,0.83,78.0,40.0,6.7,17.0,EA Sports,E,0,6.0,1,1
 2488,WWE SmackDown vs. Raw 2009,Wii,2008.0,Fighting,THQ,0.44,0.31,0.0,0.08,0.83,79.0,18.0,8.5,18.0,Yuke's,T,1,8.0,0,1
 2491,Sly 3: Honor Among Thieves,PS2,2005.0,Platform,Sony Computer Entertainment,0.69,0.03,0.0,0.11,0.83,83.0,59.0,8.8,130.0,Sucker Punch,E10+,1,11.0,0,1
-2492,MLB SlugFest 20-03,PS2,,Sports,Unknown,0.41,0.32,0.0,0.11,0.83,77.0,25.0,8.2,6.0,Midway,E,1,,0,1
 2493,Need for Speed: Nitro,Wii,2009.0,Racing,Electronic Arts,0.45,0.3,0.0,0.08,0.83,69.0,41.0,7.4,38.0,EA Montreal,E10+,0,7.0,0,1
 2494,Street Fighter X Tekken,PS3,2012.0,Fighting,Capcom,0.42,0.21,0.1,0.09,0.83,84.0,51.0,5.3,191.0,Capcom,T,0,4.0,1,1
 2497,Sid Meier's Civilization Revolution,X360,2008.0,Strategy,Take-Two Interactive,0.58,0.17,0.0,0.07,0.83,84.0,55.0,7.8,171.0,Firaxis Games,E10+,0,8.0,0,1
@@ -1626,14 +1604,12 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2517,Stranglehold,X360,2007.0,Shooter,Midway Games,0.4,0.33,0.01,0.09,0.82,77.0,59.0,7.6,91.0,Midway,M,0,9.0,0,1
 2519,Shin Megami Tensei: Persona 4,PS2,2008.0,Role-Playing,Atlus,0.34,0.04,0.36,0.08,0.82,90.0,47.0,8.9,634.0,Atlus Co.,M,1,8.0,0,1
 2520,Devil May Cry HD Collection,PS3,2012.0,Action,Capcom,0.42,0.19,0.11,0.09,0.82,74.0,27.0,8.8,158.0,"Capcom, Pipeworks Software, Inc.",M,1,4.0,0,1
-2522,The Lord of the Rings: War in the North,PS3,,Action,Warner Bros. Interactive Entertainment,0.25,0.42,0.01,0.13,0.82,63.0,33.0,7.0,100.0,Snowblind Studios,M,0,,0,1
 2525,Dance Central 3,X360,2012.0,Misc,Microsoft Game Studios,0.57,0.18,0.0,0.06,0.81,86.0,43.0,8.0,45.0,Harmonix Music Systems,T,1,4.0,0,1
 2528,Tales of Destiny II,PS,2000.0,Role-Playing,Namco Bandai Games,0.06,0.04,0.66,0.05,0.81,78.0,9.0,8.7,31.0,Namco,T,1,16.0,1,1
 2530,NASCAR 2001,PS,2000.0,Racing,Electronic Arts,0.45,0.31,0.0,0.05,0.81,73.0,8.0,6.1,9.0,Black Box,E,0,16.0,0,1
 2532,The Legend of Zelda: Four Swords Adventures,GC,2004.0,Action,Nintendo,0.63,0.16,0.0,0.02,0.81,86.0,55.0,7.2,74.0,Nintendo,E,0,12.0,1,1
 2534,MediEvil: Resurrection,PSP,2005.0,Adventure,Sony Computer Entertainment,0.19,0.41,0.0,0.22,0.81,66.0,43.0,8.7,52.0,SCEE,T,1,11.0,0,1
 2535,Valkyrie Profile,PS,1999.0,Role-Playing,Enix Corporation,0.07,0.05,0.63,0.05,0.81,81.0,8.0,8.8,37.0,Tri-Ace,T,1,17.0,0,1
-2536,Shaun White Snowboarding,X360,,Sports,Ubisoft,0.48,0.25,0.0,0.08,0.81,60.0,48.0,7.6,25.0,Ubisoft Montreal,T,0,,1,1
 2537,Patapon,PSP,2007.0,Misc,Sony Computer Entertainment,0.33,0.25,0.07,0.16,0.81,86.0,60.0,8.7,102.0,SCE Japan Studio,E,1,9.0,0,1
 2541,Pro Evolution Soccer 2010,X360,2009.0,Sports,Konami Digital Entertainment,0.12,0.58,0.03,0.08,0.81,78.0,34.0,7.6,29.0,Konami,E,0,7.0,1,1
 2542,Tom Clancy's Rainbow Six 3,PS2,2004.0,Shooter,Ubisoft,0.4,0.31,0.0,0.1,0.81,70.0,34.0,8.2,17.0,Ubisoft Shanghai,M,1,12.0,0,1
@@ -1817,7 +1793,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2845,Madden NFL 10,Wii,2009.0,Sports,Electronic Arts,0.62,0.04,0.0,0.06,0.72,77.0,23.0,7.2,24.0,EA Tiburon,E,0,7.0,1,1
 2846,MLB 09: The Show,PS3,2009.0,Sports,Sony Computer Entertainment,0.66,0.0,0.0,0.06,0.72,90.0,27.0,8.1,61.0,SCEA San Diego Studios,E,1,7.0,0,1
 2847,Borderlands: The Pre-Sequel,X360,2014.0,Shooter,Take-Two Interactive,0.46,0.19,0.01,0.07,0.72,74.0,16.0,6.4,161.0,2K Australia,M,0,2.0,0,1
-2849,Madden NFL 11,Wii,,Sports,Unknown,0.68,0.0,0.0,0.04,0.72,75.0,6.0,5.4,7.0,EA Tiburon,E,0,,1,1
 2850,Super Monkey Ball Jr.,GBA,2002.0,Puzzle,Atari,0.51,0.19,0.0,0.01,0.72,82.0,20.0,8.6,11.0,Realism Ltd,E,1,14.0,0,1
 2851,The Witcher 3: Wild Hunt,PC,2015.0,Role-Playing,Namco Bandai Games,0.21,0.46,0.0,0.05,0.72,93.0,32.0,9.3,10665.0,CD Projekt Red Studio,M,1,1.0,0,1
 2852,F1 2011,X360,2011.0,Racing,Codemasters,0.11,0.5,0.01,0.09,0.72,84.0,61.0,7.1,54.0,Codemasters,E,0,5.0,1,1
@@ -1893,7 +1868,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 2966,Baldur's Gate: Dark Alliance II,PS2,2004.0,Role-Playing,Interplay,0.34,0.26,0.0,0.09,0.68,78.0,44.0,8.7,54.0,Black Isle Studios,T,1,12.0,0,1
 2967,Shark Tale,GBA,2004.0,Action,Activision,0.49,0.18,0.0,0.01,0.68,63.0,8.0,9.0,4.0,Vicarious Visions,E,1,12.0,1,1
 2968,IL-2 Sturmovik: Birds of Prey,PS3,2009.0,Simulation,505 Games,0.34,0.25,0.0,0.1,0.68,81.0,28.0,7.3,20.0,Gaijin Entertainment,T,0,7.0,0,1
-2969,Test Drive Unlimited 2,X360,,Racing,Atari,0.3,0.31,0.0,0.07,0.68,68.0,61.0,6.4,87.0,Eden,T,0,,0,1
 2972,NBA Street Vol. 2,XB,2003.0,Sports,Electronic Arts,0.62,0.04,0.0,0.02,0.68,89.0,22.0,8.8,24.0,Electronic Arts,E,1,13.0,1,1
 2974,MX vs. ATV Untamed,X360,2007.0,Racing,THQ,0.55,0.08,0.0,0.06,0.68,70.0,43.0,7.1,17.0,Rainbow Studios,E,0,9.0,0,1
 2975,The Last Remnant,X360,2008.0,Role-Playing,Square Enix,0.25,0.2,0.18,0.06,0.68,66.0,49.0,6.9,122.0,Square Enix,M,0,8.0,0,1
@@ -1925,7 +1899,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3020,Unreal Tournament III,PS3,2007.0,Shooter,Midway Games,0.33,0.23,0.0,0.1,0.67,86.0,42.0,7.7,127.0,Epic Games,M,0,9.0,0,1
 3022,Fossil Fighters: Champions,DS,2010.0,Role-Playing,Nintendo,0.31,0.0,0.34,0.02,0.67,68.0,8.0,7.1,11.0,"RED Entertainment, Artdink",E,0,6.0,0,1
 3023,The Sims 3,DS,2010.0,Simulation,Electronic Arts,0.38,0.22,0.0,0.06,0.67,73.0,9.0,6.4,20.0,Exient Entertainment,E,0,6.0,0,1
-3024,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",GBA,,Action,Disney Interactive Studios,0.48,0.18,0.0,0.01,0.67,66.0,7.0,6.8,5.0,Amaze Entertainment,E,0,,0,1
 3029,NFL Street,XB,2004.0,Sports,Electronic Arts,0.49,0.15,0.0,0.02,0.66,81.0,38.0,8.8,9.0,EA Tiburon,E,1,12.0,1,1
 3030,Final Fantasy Crystal Chronicles: Ring of Fates,DS,2007.0,Role-Playing,Square Enix,0.22,0.01,0.42,0.02,0.66,77.0,41.0,7.2,25.0,Square Enix,E10+,0,9.0,0,1
 3031,Bakugan: Battle Brawlers,Wii,2009.0,Action,Activision,0.59,0.03,0.0,0.05,0.66,62.0,12.0,7.2,11.0,Now Production,E,0,7.0,0,1
@@ -2039,12 +2012,10 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3218,Tony Hawk's Project 8,PS3,2006.0,Sports,Activision,0.3,0.22,0.01,0.1,0.63,76.0,43.0,7.2,14.0,Neversoft Entertainment,T,0,10.0,0,1
 3219,Ghostbusters: The Video Game,X360,2009.0,Action,Atari,0.43,0.14,0.0,0.06,0.63,79.0,53.0,8.5,125.0,Terminal Reality,T,1,7.0,0,1
 3220,XCOM: Enemy Unknown,X360,2012.0,Strategy,Take-Two Interactive,0.36,0.21,0.0,0.05,0.62,90.0,35.0,8.3,366.0,Firaxis Games,M,1,4.0,0,1
-3223,Metal Gear Solid 2: Substance,XB,,Action,Konami Digital Entertainment,0.38,0.22,0.0,0.03,0.62,87.0,28.0,8.5,39.0,KCEJ,M,1,,0,1
 3224,Tony Hawk's American Wasteland,XB,2005.0,Sports,Activision,0.4,0.2,0.0,0.03,0.62,77.0,40.0,7.7,15.0,Neversoft Entertainment,T,0,11.0,0,1
 3226,Wild ARMs 3,PS2,2002.0,Role-Playing,Ubisoft,0.16,0.13,0.29,0.04,0.62,78.0,30.0,8.4,38.0,"Media Vision, Contrail",T,1,14.0,0,1
 3229,Madden NFL 07,GC,2006.0,Sports,Electronic Arts,0.48,0.13,0.0,0.02,0.62,82.0,14.0,9.2,5.0,EA Tiburon,E,1,10.0,1,1
 3232,Tiger Woods PGA Tour 2004,XB,2003.0,Sports,Electronic Arts,0.47,0.13,0.0,0.02,0.62,89.0,18.0,8.2,14.0,EA Sports,E,1,13.0,1,1
-3233,Test Drive Unlimited 2,PS3,,Racing,Atari,0.16,0.34,0.01,0.12,0.62,70.0,43.0,6.1,44.0,Eden,T,0,,0,1
 3234,Tak 2: The Staff of Dreams,PS2,2004.0,Platform,THQ,0.3,0.24,0.0,0.08,0.62,71.0,31.0,8.0,10.0,Avalanche Software,E,1,12.0,0,1
 3235,Just Dance 3,PS3,2011.0,Misc,Ubisoft,0.33,0.2,0.0,0.09,0.62,75.0,5.0,6.0,7.0,Ubisoft,E10+,0,5.0,1,1
 3236,LEGO Pirates of the Caribbean: The Video Game,3DS,2011.0,Action,Disney Interactive Studios,0.29,0.27,0.0,0.06,0.62,71.0,16.0,7.3,20.0,Traveller's Tales,E10+,0,5.0,1,1
@@ -2075,7 +2046,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3285,Metroid Prime: Trilogy,Wii,2009.0,Shooter,Nintendo,0.42,0.05,0.0,0.14,0.61,91.0,48.0,9.3,316.0,Retro Studios,T,1,7.0,0,1
 3286,Robotech: Battlecry,PS2,2002.0,Shooter,TDK Mediactive,0.3,0.23,0.0,0.08,0.61,72.0,20.0,8.5,8.0,Vicious Cycle,T,1,14.0,0,1
 3288,Disney Universe,PS3,2011.0,Action,Disney Interactive Studios,0.3,0.22,0.0,0.09,0.61,70.0,29.0,6.9,13.0,Eurocom Entertainment Software,E10+,0,5.0,0,1
-3289,Advance Wars: Days of Ruin,DS,,Strategy,Nintendo,0.43,0.12,0.0,0.05,0.61,86.0,55.0,8.7,96.0,Intelligent Systems,E10+,1,,0,1
 3290,Jak and Daxter: The Lost Frontier,PSP,2009.0,Platform,Sony Computer Entertainment,0.18,0.27,0.0,0.15,0.61,71.0,47.0,6.3,28.0,High Impact Games,E10+,0,7.0,0,1
 3291,Texas Hold 'Em Poker,GBA,2004.0,Misc,Majesco Entertainment,0.44,0.16,0.0,0.01,0.61,49.0,7.0,6.8,6.0,Skyworks Technologies,E,0,12.0,0,1
 3292,Time Crisis 3,PS2,2003.0,Shooter,Namco Bandai Games,0.3,0.23,0.0,0.08,0.61,81.0,29.0,8.1,12.0,Namco,T,1,13.0,1,1
@@ -2116,7 +2086,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3346,Half-Life,PS2,2001.0,Shooter,Vivendi Games,0.29,0.23,0.0,0.08,0.6,87.0,24.0,8.6,94.0,Gearbox Software,M,1,15.0,0,1
 3350,Split/Second,X360,2010.0,Racing,Disney Interactive Studios,0.32,0.23,0.0,0.06,0.6,82.0,78.0,8.1,101.0,Black Rock Studio,E10+,1,6.0,0,1
 3351,The Golden Compass,DS,2007.0,Action,Sega,0.28,0.25,0.0,0.06,0.6,43.0,7.0,4.9,8.0,Artificial Mind and Movement,E10+,0,9.0,0,1
-3352,The Golden Compass,Wii,,Action,Sega,0.26,0.28,0.0,0.07,0.6,35.0,12.0,6.8,6.0,Shiny Entertainment,E10+,0,,0,1
 3356,Muramasa: The Demon Blade,Wii,2009.0,Role-Playing,Rising Star Games,0.32,0.12,0.11,0.04,0.6,81.0,58.0,8.7,101.0,Vanillaware,T,1,7.0,0,1
 3361,Okami,Wii,2008.0,Action,Capcom,0.43,0.09,0.04,0.05,0.6,90.0,44.0,8.9,236.0,Ready at Dawn,T,1,8.0,0,1
 3363,LEGO The Hobbit,PS4,2014.0,Action,Warner Bros. Interactive Entertainment,0.13,0.38,0.0,0.09,0.6,72.0,47.0,6.6,88.0,TT Games,E10+,0,2.0,0,1
@@ -2140,7 +2109,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3406,Dead or Alive Xtreme Beach Volleyball,XB,2003.0,Sports,Microsoft Game Studios,0.36,0.08,0.14,0.02,0.59,73.0,42.0,7.8,47.0,Team Ninja,M,0,13.0,0,1
 3408,Silent Hill: Shattered Memories,PS2,2010.0,Action,Konami Digital Entertainment,0.13,0.22,0.01,0.23,0.59,77.0,8.0,6.8,82.0,Climax Group,M,0,6.0,0,1
 3410,Blur,X360,2010.0,Racing,Activision,0.25,0.27,0.0,0.06,0.59,82.0,78.0,8.3,169.0,Bizarre Creations,E10+,1,6.0,0,1
-3413,Madden NFL 06,X360,,Sports,Electronic Arts,0.54,0.0,0.01,0.03,0.59,74.0,48.0,4.9,44.0,EA Tiburon,E,0,,1,1
 3414,Asphalt: Urban GT,DS,2004.0,Racing,Ubisoft,0.31,0.22,0.0,0.06,0.59,60.0,38.0,7.5,13.0,Gameloft,E,0,12.0,0,1
 3415,Mega Man Anniversary Collection,PS2,2004.0,Platform,Capcom,0.29,0.22,0.0,0.08,0.59,81.0,26.0,9.0,20.0,Atomic Planet Entertainment,E,1,12.0,0,1
 3416,Metal Gear Solid V: Ground Zeroes,PS3,2014.0,Action,Konami Digital Entertainment,0.14,0.12,0.27,0.05,0.59,66.0,5.0,5.9,242.0,Kojima Productions,M,0,2.0,0,1
@@ -2170,7 +2138,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3453,Shin Megami Tensei IV,3DS,2013.0,Role-Playing,Atlus,0.28,0.0,0.27,0.03,0.58,83.0,48.0,8.3,251.0,Atlus,M,1,3.0,0,1
 3454,NBA 2K7,X360,2006.0,Sports,Take-Two Interactive,0.53,0.0,0.0,0.04,0.58,84.0,46.0,7.8,67.0,"Kush Games, Visual Concepts",E,0,10.0,0,1
 3458,NHL 12,PS3,2011.0,Sports,Electronic Arts,0.36,0.15,0.0,0.07,0.58,86.0,33.0,7.5,52.0,Electronic Arts,E10+,0,5.0,1,1
-3459,NASCAR: Dirt to Daytona,PS2,,Racing,Unknown,0.28,0.22,0.0,0.07,0.58,84.0,10.0,8.8,19.0,Monster Games Inc.,E,1,,0,1
 3460,Unreal Tournament,PS2,2000.0,Shooter,Infogrames,0.28,0.22,0.0,0.07,0.58,77.0,23.0,6.8,13.0,Epic Games,M,0,16.0,0,1
 3461,Digimon World 2,PS,2000.0,Role-Playing,Namco Bandai Games,0.23,0.16,0.16,0.04,0.58,42.0,5.0,7.6,47.0,Bandai,E,0,16.0,0,1
 3463,Prince of Persia: The Two Thrones,XB,2005.0,Action,Ubisoft,0.33,0.22,0.0,0.03,0.58,85.0,46.0,8.4,28.0,Ubisoft,M,1,11.0,1,1
@@ -2185,7 +2152,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3480,NHL 06,PS2,2005.0,Sports,Electronic Arts,0.48,0.02,0.0,0.08,0.58,78.0,27.0,8.5,29.0,EA Canada,E10+,1,11.0,1,1
 3481,Parasite Eve II,PS,1999.0,Role-Playing,SquareSoft,0.32,0.22,0.0,0.04,0.58,79.0,14.0,9.0,77.0,SquareSoft,M,1,17.0,0,1
 3483,Skate it,Wii,2008.0,Sports,Electronic Arts,0.5,0.03,0.0,0.04,0.58,70.0,37.0,8.4,25.0,Electronic Arts,E,1,8.0,1,1
-3486,Madden NFL 2002,XB,,Sports,Unknown,0.53,0.02,0.0,0.03,0.58,90.0,16.0,8.1,8.0,EA Sports,E,1,,1,1
 3488,Phineas and Ferb: Across the 2nd Dimension,Wii,2011.0,Action,Disney Interactive Studios,0.35,0.18,0.0,0.05,0.57,76.0,4.0,8.3,6.0,High Impact Games,E10+,1,5.0,0,1
 3490,Far Cry Instincts,XB,2005.0,Shooter,Ubisoft,0.32,0.24,0.0,0.02,0.57,85.0,56.0,5.7,73.0,Ubisoft Montreal,M,0,11.0,1,1
 3492,Tony Hawk's Pro Skater 4,GBA,2002.0,Sports,Activision,0.41,0.15,0.0,0.01,0.57,85.0,13.0,8.8,4.0,Vicarious Visions,E,1,14.0,1,1
@@ -2317,7 +2283,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3701,Dragon Ball Z: Shin Budokai,PSP,2006.0,Fighting,Atari,0.26,0.08,0.13,0.07,0.54,70.0,21.0,8.1,19.0,Dimps Corporation,T,1,10.0,0,1
 3702,Tiger Woods PGA Tour 13,PS3,2012.0,Sports,Electronic Arts,0.24,0.21,0.0,0.08,0.54,75.0,14.0,5.7,9.0,Electronic Arts,E,0,4.0,1,1
 3703,Dynasty Warriors: Gundam 3,PS3,2010.0,Action,Tecmo Koei,0.11,0.04,0.36,0.02,0.54,58.0,18.0,7.5,20.0,"Omega Force, Koei Tecmo Games",T,0,6.0,0,1
-3704,Def Jam: Fight for NY,XB,,Fighting,Electronic Arts,0.43,0.1,0.0,0.02,0.54,84.0,33.0,8.5,13.0,Aki Corp.,M,1,,0,1
 3711,Tiger Woods PGA Tour 11,Wii,2010.0,Sports,Electronic Arts,0.23,0.25,0.0,0.06,0.54,84.0,29.0,8.3,23.0,EA Sports,E,1,6.0,1,1
 3712,NBA Live 10,PS3,2009.0,Sports,Electronic Arts,0.46,0.02,0.01,0.05,0.54,81.0,32.0,7.5,25.0,EA Canada,E,0,7.0,1,1
 3713,Metro 2033,X360,2010.0,Shooter,THQ,0.22,0.23,0.03,0.05,0.54,77.0,83.0,7.9,351.0,4A Games,M,0,6.0,0,1
@@ -2336,7 +2301,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3736,The Hobbit,PS2,2003.0,Platform,Vivendi Games,0.26,0.2,0.0,0.07,0.54,59.0,17.0,8.6,14.0,Inevitable Entertainment,E,1,13.0,0,1
 3737,War of the Monsters,PS2,2003.0,Fighting,Sony Computer Entertainment,0.26,0.2,0.0,0.07,0.54,80.0,41.0,8.9,68.0,Incognito Inc.,T,1,13.0,0,1
 3738,Harry Potter and the Deathly Hallows - Part 1,Wii,2010.0,Action,Electronic Arts,0.22,0.27,0.0,0.05,0.54,41.0,8.0,5.0,11.0,Electronic Arts,T,0,6.0,1,1
-3739,NBA Street Vol. 2,GC,,Sports,Electronic Arts,0.41,0.11,0.0,0.01,0.54,88.0,16.0,8.1,7.0,Electronic Arts,E,1,,1,1
 3740,The Incredible Hulk: Ultimate Destruction,PS2,2005.0,Action,Vivendi Games,0.26,0.2,0.0,0.07,0.54,83.0,41.0,8.7,38.0,Radical Entertainment,T,1,11.0,0,1
 3741,Time Crisis: Razing Storm,PS3,2010.0,Shooter,Namco Bandai Games,0.18,0.2,0.07,0.08,0.54,58.0,49.0,5.9,15.0,Nex Entertainment,T,0,6.0,0,1
 3742,Summer Sports: Paradise Island,Wii,2008.0,Sports,Ubisoft,0.48,0.01,0.0,0.04,0.53,46.0,7.0,4.6,7.0,Destineer,E,0,8.0,0,1
@@ -2496,7 +2460,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 3991,SplashDown: Rides Gone Wild,PS2,2003.0,Racing,THQ,0.24,0.19,0.0,0.06,0.5,80.0,25.0,8.7,16.0,Rainbow Studios,E,1,13.0,0,1
 3993,Shrek SuperSlam,PS2,2005.0,Action,Activision,0.24,0.19,0.0,0.06,0.5,67.0,21.0,9.0,26.0,Shaba Games,E10+,1,11.0,0,1
 3994,Rayman Advance,GBA,2001.0,Platform,Ubisoft,0.36,0.13,0.0,0.01,0.5,84.0,17.0,8.4,16.0,Digital Eclipse,E,1,15.0,0,1
-3997,Wet,X360,,Shooter,Bethesda Softworks,0.23,0.21,0.01,0.05,0.5,69.0,79.0,7.3,86.0,Artificial Mind and Movement,M,0,,0,1
 3999,Fantastic 4,PS2,2005.0,Action,Activision,0.41,0.01,0.0,0.07,0.5,64.0,42.0,7.8,19.0,7 Studios,T,0,11.0,0,1
 4000,Men in Black II: Alien Escape,PS2,2002.0,Shooter,Infogrames,0.24,0.19,0.0,0.06,0.5,50.0,19.0,7.3,6.0,Melbourne House,T,0,14.0,0,1
 4005,Alice: Madness Returns,X360,2011.0,Adventure,Electronic Arts,0.27,0.14,0.04,0.04,0.5,70.0,67.0,8.1,157.0,Spicy Horse,M,1,5.0,0,1
@@ -2563,7 +2526,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4121,FIFA World Cup Germany 2006,X360,2006.0,Sports,Electronic Arts,0.19,0.27,0.01,0.0,0.48,72.0,49.0,6.6,33.0,EA Canada,E,0,10.0,1,0
 4125,World of Outlaws: Sprint Cars 2002,PS2,2002.0,Racing,Ignition Entertainment,0.23,0.18,0.0,0.06,0.48,80.0,10.0,9.1,10.0,Ratbag,E,1,14.0,0,0
 4126,Children of Mana,DS,2006.0,Role-Playing,Nintendo,0.16,0.01,0.29,0.01,0.48,65.0,34.0,6.0,21.0,Nex Entertainment,E10+,0,10.0,0,0
-4127,Sonic the Hedgehog,PS3,,Platform,,0.0,0.48,0.0,0.0,0.48,43.0,17.0,4.1,176.0,Sonic Team,E10+,0,,0,0
 4128,Fantavision,PS2,2000.0,Puzzle,Sony Computer Entertainment,0.14,0.11,0.19,0.04,0.47,72.0,18.0,6.3,9.0,SCEJ,E,0,16.0,0,0
 4133,X-Men: Next Dimension,PS2,2002.0,Fighting,Activision,0.23,0.18,0.0,0.06,0.47,61.0,19.0,8.7,13.0,Paradox Development,T,1,14.0,0,0
 4136,Dynasty Warriors Gundam,PS3,2007.0,Action,Tecmo Koei,0.14,0.01,0.31,0.02,0.47,60.0,29.0,6.9,16.0,"Koei, Omega Force",T,0,9.0,0,0
@@ -2609,7 +2571,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4202,Godzilla: Save the Earth,PS2,2004.0,Fighting,Atari,0.23,0.18,0.0,0.06,0.47,62.0,19.0,8.7,21.0,"Pipeworks Software, Inc.",T,1,12.0,0,0
 4203,Dance Dance Revolution: Mario Mix,GC,2005.0,Misc,Nintendo,0.36,0.09,0.0,0.01,0.47,69.0,28.0,8.4,19.0,Hudson,E,1,11.0,0,0
 4204,Metal Gear Solid: The Twin Snakes,GC,2004.0,Action,Konami Digital Entertainment,0.3,0.08,0.07,0.01,0.47,85.0,54.0,9.0,142.0,Silicon Knights,M,1,12.0,0,0
-4205,Tiger Woods PGA Tour 07,Wii,,Sports,Electronic Arts,0.43,0.0,0.0,0.04,0.47,71.0,41.0,6.9,44.0,EA Redwood Shores,E,0,,0,0
 4206,Art Academy: Lessons for Everyone,3DS,2012.0,Action,Nintendo,0.2,0.04,0.21,0.02,0.46,81.0,14.0,7.6,22.0,"Nintendo, Headstrong Games",E,0,4.0,0,0
 4207,Mat Hoffman's Pro BMX 2,PS2,2002.0,Sports,Activision,0.23,0.18,0.0,0.06,0.46,76.0,22.0,9.1,7.0,Rainbow Studios,T,1,14.0,0,0
 4209,One Piece: Pirate Warriors 3,PS4,2015.0,Action,Namco Bandai Games,0.09,0.22,0.1,0.06,0.46,74.0,34.0,7.4,118.0,Omega Force,T,0,1.0,1,0
@@ -2650,7 +2611,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4289,PlayStation All-Stars Battle Royale,PSV,2012.0,Action,Sony Computer Entertainment,0.21,0.14,0.01,0.09,0.45,75.0,15.0,7.5,221.0,Bluepoint Games,T,0,4.0,0,0
 4290,The Powerpuff Girls: Relish Rampage,PS2,2002.0,Action,BAM! Entertainment,0.22,0.17,0.0,0.06,0.45,46.0,5.0,6.8,5.0,VIS Entertainment,E,0,14.0,0,0
 4291,Bleach: The Blade of Fate,DS,2006.0,Fighting,Sega,0.29,0.01,0.12,0.03,0.45,83.0,32.0,7.5,23.0,Treasure,T,0,10.0,0,0
-4294,The Chronicles of Riddick: Escape from Butcher Bay,XB,,Shooter,Vivendi Games,0.32,0.11,0.0,0.02,0.45,89.0,84.0,8.9,85.0,Starbreeze,M,1,,0,0
 4295,NFL Head Coach,PS2,2006.0,Sports,Electronic Arts,0.38,0.01,0.0,0.06,0.45,66.0,22.0,6.9,15.0,EA Tiburon,E,0,10.0,1,0
 4299,Tomb Raider: Underworld,Wii,2008.0,Action,Eidos Interactive,0.13,0.27,0.0,0.05,0.45,70.0,12.0,7.2,20.0,Crystal Dynamics,T,0,8.0,0,0
 4300,Area 51,PS2,2005.0,Shooter,Midway Games,0.22,0.17,0.0,0.06,0.45,75.0,37.0,8.4,52.0,Midway Studios - Austin,M,1,11.0,0,0
@@ -2686,7 +2646,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4370,Celebrity Sports Showdown,Wii,2008.0,Sports,Electronic Arts,0.18,0.22,0.0,0.05,0.45,50.0,12.0,4.6,18.0,EA Canada,E,0,8.0,1,0
 4371,F.E.A.R. 3,X360,2011.0,Shooter,Warner Bros. Interactive Entertainment,0.3,0.11,0.01,0.04,0.45,75.0,71.0,7.0,139.0,Day 1 Studios,M,0,5.0,0,0
 4372,Disney Guilty Party,Wii,2010.0,Misc,Disney Interactive Studios,0.42,0.0,0.0,0.03,0.45,78.0,13.0,8.0,4.0,Wideload Games Inc.,E,1,6.0,0,0
-4373,Silent Hill: Homecoming,X360,,Action,Konami Digital Entertainment,0.25,0.15,0.0,0.04,0.45,70.0,54.0,6.9,180.0,Double Helix Games,M,0,,0,0
 4375,"Warhammer 40,000: Space Marine",PS3,2011.0,Shooter,THQ,0.13,0.23,0.0,0.08,0.44,70.0,46.0,7.4,162.0,Relic,M,0,5.0,0,0
 4378,Major League Baseball 2K6,PS2,2006.0,Sports,Spike,0.37,0.01,0.0,0.06,0.44,70.0,19.0,5.2,27.0,Kush Games,E,0,10.0,0,0
 4381,World Soccer Winning Eleven 9,XB,2005.0,Sports,Konami Digital Entertainment,0.06,0.33,0.02,0.03,0.44,89.0,19.0,7.9,9.0,KCET,E,0,11.0,0,0
@@ -2720,7 +2679,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4441,Samurai Warriors 3,Wii,2009.0,Action,Nintendo,0.09,0.02,0.32,0.01,0.44,55.0,26.0,7.2,22.0,Omega Force,T,0,7.0,1,0
 4442,Ben 10 Alien Force: Vilgax Attacks,Wii,2009.0,Action,D3Publisher,0.25,0.14,0.0,0.04,0.44,65.0,5.0,4.0,6.0,Papaya Studios,E10+,0,7.0,0,0
 4443,TimeSplitters 2,GC,2002.0,Shooter,Eidos Interactive,0.34,0.09,0.0,0.01,0.44,88.0,18.0,9.0,65.0,Free Radical Design,T,1,14.0,0,0
-4445,Robert Ludlum's The Bourne Conspiracy,X360,,Action,Vivendi Games,0.26,0.13,0.0,0.04,0.44,71.0,72.0,7.2,63.0,High Moon Studios,T,0,,0,0
 4446,Eternal Darkness: Sanity's Requiem,GC,2002.0,Adventure,Nintendo,0.34,0.09,0.0,0.01,0.44,92.0,41.0,8.7,173.0,Silicon Knights,M,1,14.0,0,0
 4447,Food Network: Cook or Be Cooked,Wii,2009.0,Misc,Namco Bandai Games,0.41,0.0,0.0,0.03,0.44,53.0,8.0,6.8,5.0,Red Fly Studio,E,0,7.0,0,0
 4449,Naruto: Ultimate Ninja 3,PS2,2005.0,Fighting,Atari,0.36,0.01,0.0,0.06,0.44,75.0,24.0,8.7,33.0,CyberConnect2,T,1,11.0,0,0
@@ -2823,7 +2781,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4630,LEGO Rock Band,PS3,2009.0,Misc,Warner Bros. Interactive Entertainment,0.24,0.12,0.0,0.06,0.42,75.0,36.0,7.6,18.0,TT Fusion,E10+,0,7.0,0,0
 4632,Black,XB,2006.0,Shooter,Electronic Arts,0.31,0.09,0.0,0.01,0.42,77.0,65.0,8.0,51.0,Criterion Games,M,1,10.0,0,0
 4634,Spec Ops: The Line,X360,2012.0,Shooter,Take-Two Interactive,0.21,0.17,0.0,0.04,0.42,76.0,59.0,8.2,319.0,Yager,M,1,4.0,0,0
-4635,NHL Slapshot,Wii,,Sports,Unknown,0.39,0.0,0.0,0.02,0.42,76.0,25.0,8.1,7.0,EA Sports,E,1,,1,0
 4636,Paper Mario: Color Splash,WiiU,2016.0,Role-Playing,Nintendo,0.2,0.14,0.05,0.03,0.42,75.0,72.0,6.8,208.0,"Nintendo, Intelligent Systems",E,0,0.0,0,0
 4637,Valkyrie Profile: Covenant of the Plume,DS,2008.0,Role-Playing,Square Enix,0.22,0.02,0.16,0.02,0.42,74.0,35.0,6.8,12.0,Tri-Ace,T,0,8.0,0,0
 4638,Vanquish,X360,2010.0,Shooter,Sega,0.19,0.16,0.03,0.04,0.42,84.0,70.0,8.4,182.0,PlatinumGames,M,1,6.0,0,0
@@ -2831,7 +2788,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4642,Pirates of the Caribbean: At World's End,PS2,2007.0,Action,Disney Interactive Studios,0.2,0.16,0.0,0.05,0.42,54.0,10.0,7.0,10.0,Eurocom Entertainment Software,T,0,9.0,0,0
 4643,Mega Man Legends 2,PS,2000.0,Adventure,Capcom,0.17,0.12,0.1,0.03,0.42,76.0,10.0,8.8,29.0,Capcom,E,1,16.0,1,0
 4645,Blazing Angels: Squadrons of WWII,X360,2006.0,Simulation,Ubisoft,0.36,0.02,0.0,0.03,0.42,66.0,58.0,7.9,53.0,Ubisoft,T,0,10.0,1,0
-4648,TERA,PC,,Role-Playing,Unknown,0.25,0.12,0.0,0.05,0.42,77.0,41.0,6.8,742.0,Bluehole Studio,M,0,,0,0
 4649,Attack on Titan: Humanity in Chains,3DS,2013.0,Action,Screenlife,0.0,0.0,0.42,0.0,0.42,46.0,22.0,4.5,34.0,Spike Chunsoft,M,0,3.0,0,0
 4650,The Suffering,PS2,2004.0,Action,Midway Games,0.2,0.16,0.0,0.05,0.42,77.0,47.0,8.9,40.0,Surreal Software,M,1,12.0,0,0
 4653,Animal Crossing: Amiibo Festival,WiiU,2015.0,Misc,Nintendo,0.19,0.11,0.09,0.03,0.41,46.0,20.0,4.4,173.0,"Nintendo, Nd Cube",E,0,1.0,0,0
@@ -2907,7 +2863,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4813,Ragnarok Odyssey,PSV,2012.0,Role-Playing,GungHo,0.2,0.01,0.16,0.03,0.4,66.0,21.0,7.8,111.0,Game Arts,T,0,4.0,0,0
 4815,The Gunstringer,X360,2011.0,Shooter,Microsoft Game Studios,0.26,0.1,0.0,0.04,0.4,77.0,60.0,8.1,40.0,Twisted Pixel Games,T,1,5.0,0,0
 4817,Marvel: Ultimate Alliance,Wii,2006.0,Role-Playing,Activision,0.36,0.0,0.0,0.03,0.4,73.0,31.0,7.3,29.0,Vicarious Visions,T,0,10.0,1,0
-4818,LEGO Harry Potter: Years 5-7,3DS,,Action,Warner Bros. Interactive Entertainment,0.18,0.19,0.0,0.03,0.4,71.0,7.0,6.5,11.0,Traveller's Tales,E10+,0,,1,0
 4820,MX vs. ATV Unleashed,XB,2005.0,Racing,THQ,0.32,0.07,0.0,0.01,0.4,80.0,21.0,8.3,13.0,Rainbow Studios,E,1,11.0,0,0
 4821,FIFA Soccer 13,PC,2012.0,Action,Electronic Arts,0.02,0.31,0.0,0.07,0.4,86.0,7.0,6.6,286.0,Electronic Arts,E,0,4.0,1,0
 4822,Rampage: Total Destruction,GC,2006.0,Action,Midway Games,0.31,0.08,0.0,0.01,0.4,57.0,24.0,6.7,6.0,"Pipeworks Software, Inc.",E10+,0,10.0,0,0
@@ -2919,7 +2874,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4840,Spore Hero,Wii,2009.0,Simulation,Electronic Arts,0.35,0.02,0.0,0.03,0.4,61.0,23.0,7.1,36.0,Maxis,E10+,0,7.0,0,0
 4843,I-Ninja,PS2,2003.0,Platform,Sony Computer Entertainment,0.19,0.15,0.0,0.05,0.4,73.0,39.0,8.3,22.0,Argonaut Games,T,1,13.0,0,0
 4846,Ghostbusters: The Video Game,DS,2009.0,Action,Atari,0.24,0.12,0.0,0.04,0.4,55.0,17.0,6.0,7.0,Zen Studios,E,0,7.0,0,0
-4848,Harvest Moon: Save the Homeland,PS2,,Simulation,Unknown,0.19,0.15,0.0,0.05,0.4,76.0,14.0,8.8,72.0,Victor Interactive Software,E,1,,0,0
 4850,Call of Duty: Finest Hour,GC,2004.0,Shooter,Activision,0.31,0.08,0.0,0.01,0.4,74.0,31.0,8.9,13.0,Exakt,T,1,12.0,0,0
 4851,Naruto: Path of the Ninja,DS,2007.0,Role-Playing,D3Publisher,0.37,0.0,0.0,0.03,0.4,57.0,18.0,7.2,9.0,TOSE,E10+,0,9.0,0,0
 4854,Castlevania: Portrait of Ruin,DS,2006.0,Platform,Konami Digital Entertainment,0.31,0.02,0.04,0.03,0.4,85.0,51.0,8.3,87.0,Konami,T,1,10.0,1,0
@@ -2968,7 +2922,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4938,Auto Modellista,PS2,2002.0,Racing,Capcom,0.19,0.15,0.0,0.05,0.39,66.0,20.0,7.5,13.0,Capcom,E,0,14.0,1,0
 4941,Tom Clancy's Ghost Recon 2: Summit Strike,XB,2005.0,Shooter,Ubisoft,0.29,0.08,0.0,0.01,0.39,84.0,40.0,7.2,35.0,Red Storm Entertainment,T,0,11.0,0,0
 4944,Just Dance 2015,PS4,2014.0,Misc,Ubisoft,0.19,0.13,0.0,0.07,0.39,72.0,8.0,5.8,32.0,Ubisoft,E10+,0,2.0,1,0
-4945,Robert Ludlum's The Bourne Conspiracy,PS3,,Action,Vivendi Games,0.18,0.14,0.0,0.06,0.39,70.0,47.0,7.6,43.0,High Moon Studios,T,0,,0,0
 4946,Samurai Warriors Chronicles,3DS,2011.0,Action,Tecmo Koei,0.12,0.05,0.2,0.01,0.39,61.0,30.0,7.7,35.0,Omega Force,T,0,5.0,1,0
 4952,One Piece: Unlimited World Red,3DS,2013.0,Action,Namco Bandai Games,0.05,0.04,0.28,0.01,0.39,75.0,5.0,7.6,26.0,Ganbarion,T,0,3.0,0,0
 4953,EA Sports Active 2,X360,2010.0,Sports,Electronic Arts,0.18,0.16,0.0,0.04,0.39,68.0,21.0,5.4,9.0,EA Canada,E,0,6.0,1,0
@@ -2976,7 +2929,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 4955,Red Faction: Armageddon,X360,2011.0,Shooter,THQ,0.18,0.16,0.01,0.04,0.39,71.0,74.0,7.0,77.0,Volition Inc.,M,0,5.0,0,0
 4956,Harry Potter: Quidditch World Cup,GBA,2003.0,Sports,Electronic Arts,0.28,0.1,0.0,0.01,0.39,53.0,6.0,8.3,9.0,Magic Pockets,E,1,13.0,0,0
 4957,Dungeon Siege III,PS3,2011.0,Role-Playing,Square Enix,0.17,0.13,0.03,0.05,0.39,71.0,52.0,6.3,86.0,Obsidian Entertainment,T,0,5.0,0,0
-4959,Silent Hill: Homecoming,PS3,,Action,Konami Digital Entertainment,0.18,0.14,0.0,0.06,0.38,71.0,41.0,6.9,143.0,Double Helix Games,M,0,,0,0
 4963,Shin Megami Tensei: Nocturne,PS2,2003.0,Role-Playing,Ghostlight,0.07,0.05,0.25,0.02,0.38,82.0,42.0,8.7,83.0,Atlus Co.,M,1,13.0,0,0
 4967,Farming Simulator 2013,X360,2013.0,Simulation,Focus Home Interactive,0.22,0.13,0.0,0.04,0.38,33.0,12.0,6.2,30.0,Giants Software,E,0,3.0,0,0
 4968,ESPN College Hoops 2K5,XB,2004.0,Sports,Sega,0.29,0.08,0.0,0.01,0.38,86.0,18.0,8.3,11.0,Visual Concepts,E,1,12.0,1,0
@@ -3026,7 +2978,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5063,Skylanders Giants,WiiU,2012.0,Action,Activision,0.22,0.12,0.0,0.03,0.37,80.0,8.0,6.9,22.0,Vicarious Visions,E10+,0,4.0,1,0
 5064,GRID 2,PS3,2013.0,Racing,Codemasters,0.07,0.22,0.01,0.08,0.37,82.0,20.0,6.6,173.0,Codemasters,E,0,3.0,1,0
 5067,Super Dragon Ball Z,PS2,2006.0,Fighting,Atari,0.09,0.07,0.19,0.02,0.37,72.0,31.0,5.8,21.0,Crafts & Meister,T,0,10.0,0,0
-5070,The Golden Compass,PSP,,Action,Sega,0.11,0.16,0.0,0.1,0.37,28.0,4.0,4.1,7.0,Shiny Entertainment,E10+,0,,0,0
 5075,Disney Sing It,PS3,2008.0,Misc,Disney Interactive Studios,0.28,0.06,0.0,0.04,0.37,54.0,11.0,3.5,6.0,Zoe Mode,E,0,8.0,0,0
 5077,Ultimate Spider-Man,GC,2005.0,Action,Activision,0.29,0.07,0.0,0.01,0.37,76.0,36.0,7.2,21.0,Treyarch,T,0,11.0,0,0
 5079,Major League Baseball 2K6,X360,2006.0,Sports,Spike,0.34,0.0,0.0,0.03,0.37,66.0,22.0,3.9,37.0,Kush Games,E,0,10.0,0,0
@@ -3073,7 +3024,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5152,Marvel: Ultimate Alliance,PSP,2006.0,Role-Playing,Activision,0.33,0.0,0.0,0.03,0.37,81.0,19.0,7.5,14.0,Vicarious Visions,T,0,10.0,1,0
 5153,The Sims 2: Castaway,PS2,2007.0,Simulation,Electronic Arts,0.3,0.01,0.0,0.05,0.37,71.0,17.0,8.0,15.0,EA Redwood Shores,T,1,9.0,0,0
 5154,NCAA Football 07,PSP,2006.0,Sports,Electronic Arts,0.34,0.0,0.0,0.03,0.37,75.0,16.0,7.9,11.0,EA Sports,E,0,10.0,1,0
-5156,NBA Live 2003,XB,,Sports,Electronic Arts,0.31,0.04,0.0,0.01,0.36,82.0,17.0,8.8,6.0,EA Canada,E,1,,1,0
 5157,Fragile Dreams: Farewell Ruins of the Moon,Wii,2009.0,Role-Playing,Rising Star Games,0.16,0.12,0.06,0.03,0.36,67.0,41.0,8.3,63.0,Tri-Crescendo,T,1,7.0,0,0
 5158,GoldenEye: Rogue Agent,GC,2004.0,Shooter,Electronic Arts,0.28,0.07,0.0,0.01,0.36,60.0,35.0,6.7,14.0,EA LA,T,0,12.0,0,0
 5159,Need for Speed: The Run,PC,2011.0,Action,Electronic Arts,0.09,0.21,0.0,0.07,0.36,69.0,18.0,5.8,338.0,Black Box,T,0,5.0,0,0
@@ -3158,13 +3108,11 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5323,NFL Street,GC,2004.0,Sports,Electronic Arts,0.27,0.07,0.0,0.01,0.35,81.0,30.0,8.0,4.0,EA Tiburon,E,1,12.0,1,0
 5324,Karaoke Revolution,PS2,2003.0,Misc,Konami Digital Entertainment,0.17,0.13,0.0,0.04,0.35,83.0,29.0,9.1,17.0,Harmonix Music Systems,E,1,13.0,0,0
 5325,Metal Arms: Glitch in the System,PS2,2003.0,Shooter,Vivendi Games,0.17,0.13,0.0,0.04,0.35,81.0,28.0,8.9,17.0,Mass Media,T,1,13.0,0,0
-5326,Tropico 4,X360,,Strategy,Kalypso Media,0.2,0.12,0.0,0.03,0.35,77.0,18.0,7.5,37.0,Haemimont,T,0,,0,0
 5329,EverGrace,PS2,2000.0,Role-Playing,Ubisoft,0.1,0.08,0.15,0.03,0.35,59.0,12.0,7.8,4.0,From Software,T,0,16.0,0,0
 5330,Enemy Territory: Quake Wars,PS3,2008.0,Shooter,Activision,0.23,0.07,0.0,0.04,0.35,60.0,30.0,6.4,14.0,"Z-Axis, Ltd.",T,0,8.0,0,0
 5331,Lunar 2: Eternal Blue Complete,PS,1999.0,Role-Playing,Kadokawa Shoten,0.19,0.13,0.0,0.02,0.35,86.0,12.0,8.9,37.0,Game Arts,T,1,17.0,0,0
 5334,MLB 06: The Show,PSP,2006.0,Sports,Sony Computer Entertainment,0.32,0.0,0.0,0.03,0.35,83.0,30.0,8.5,32.0,SCEA San Diego Studios,E,1,10.0,0,0
 5335,Over the Hedge,GC,2006.0,Platform,Activision,0.27,0.07,0.0,0.01,0.35,61.0,21.0,9.3,6.0,Edge of Reality,E10+,1,10.0,0,0
-5336,Tomb Raider (2013),PC,,Action,Square Enix,0.06,0.25,0.0,0.04,0.35,86.0,18.0,8.5,3552.0,"Crystal Dynamics, Nixxes Software",M,1,,0,0
 5337,Charlie and the Chocolate Factory,PS2,2005.0,Adventure,Global Star,0.17,0.13,0.0,0.04,0.35,35.0,21.0,4.1,28.0,"High Voltage Software, Backbone Entertainment",E,0,11.0,0,0
 5338,TrackMania Turbo,PS4,2016.0,Action,Ubisoft,0.03,0.26,0.0,0.05,0.35,81.0,52.0,7.9,110.0,Nadeo,E,0,0.0,0,0
 5341,Tiger Woods PGA Tour 12: The Masters,Wii,2011.0,Sports,Electronic Arts,0.2,0.11,0.0,0.03,0.34,85.0,14.0,6.7,7.0,Electronic Arts,E,0,5.0,1,0
@@ -3297,7 +3245,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5584,Eternal Sonata,X360,2007.0,Role-Playing,Atari,0.19,0.04,0.08,0.02,0.32,79.0,56.0,7.9,97.0,Tri-Crescendo,T,0,9.0,0,0
 5585,Harvest Moon: Back to Nature,PS,1999.0,Simulation,Ubisoft,0.11,0.07,0.12,0.02,0.32,82.0,6.0,9.3,78.0,Victor Interactive Software,E,1,17.0,0,0
 5586,Dead or Alive 5,X360,2012.0,Fighting,Ubisoft Annecy,0.19,0.08,0.03,0.03,0.32,76.0,39.0,7.9,95.0,Team Ninja,M,0,4.0,0,0
-5588,Final Fantasy XI,PS2,,Role-Playing,Unknown,0.08,0.06,0.15,0.02,0.32,85.0,49.0,6.9,66.0,Square Enix,T,0,,0,0
 5590,Overlord II,X360,2009.0,Action,Codemasters,0.15,0.14,0.0,0.03,0.32,75.0,60.0,7.2,46.0,Triumph Studios,T,0,7.0,0,0
 5592,Dance Dance Revolution Universe,X360,2007.0,Simulation,Konami Digital Entertainment,0.3,0.0,0.0,0.02,0.32,74.0,26.0,8.8,5.0,Konami,E10+,1,9.0,1,0
 5594,Batman: Arkham Asylum,PC,2009.0,Action,Eidos Interactive,0.0,0.28,0.0,0.05,0.32,91.0,29.0,8.7,1736.0,Rocksteady Studios,T,1,7.0,0,0
@@ -3317,7 +3264,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5619,DiRT 2,PSP,2009.0,Racing,Sony Computer Entertainment,0.09,0.15,0.0,0.08,0.32,55.0,13.0,5.7,10.0,Codemasters,E10+,0,7.0,1,0
 5621,Frogger's Adventures: The Rescue,PS2,2003.0,Platform,Konami Digital Entertainment,0.16,0.12,0.0,0.04,0.32,59.0,12.0,8.5,6.0,Konami,E,1,13.0,1,0
 5622,Silent Hill HD Collection,PS3,2012.0,Action,Konami Digital Entertainment,0.15,0.1,0.03,0.04,0.32,70.0,33.0,4.8,136.0,Hijinx Studios,M,0,4.0,0,0
-5624,Singularity,X360,,Shooter,Unknown,0.24,0.05,0.0,0.02,0.32,76.0,70.0,7.7,169.0,Raven Software,M,0,,0,0
 5625,Karaoke Revolution Volume 3,PS2,2004.0,Misc,Konami Digital Entertainment,0.16,0.12,0.0,0.04,0.32,82.0,25.0,7.8,10.0,Harmonix Music Systems,E,0,12.0,0,0
 5627,Army of Two: The 40th Day,PSP,2010.0,Shooter,Electronic Arts,0.12,0.13,0.0,0.08,0.32,49.0,11.0,6.0,32.0,"Buzz Monkey, EA Montreal",M,0,6.0,0,0
 5630,Persona 4: Dancing All Night,PSV,2015.0,Misc,Nippon Ichi Software,0.09,0.04,0.15,0.04,0.32,76.0,51.0,8.6,83.0,"Atlus, Dingo Inc.",T,1,1.0,0,0
@@ -3329,7 +3275,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5648,Murdered: Soul Suspect,PS4,2014.0,Action,Square Enix,0.09,0.16,0.02,0.05,0.32,59.0,60.0,6.9,310.0,Airtight Games,M,0,2.0,0,0
 5649,The Darkness II,PS3,2012.0,Shooter,Take-Two Interactive,0.14,0.13,0.0,0.05,0.32,79.0,28.0,7.6,127.0,Digital Extremes,M,0,4.0,0,0
 5650,NBA 2K3,XB,2002.0,Sports,Sega,0.24,0.07,0.0,0.01,0.32,87.0,15.0,7.9,9.0,Visual Concepts,E,0,14.0,1,0
-5655,All-Star Baseball 2005,PS2,,Sports,Unknown,0.16,0.12,0.0,0.04,0.32,72.0,13.0,8.6,21.0,Acclaim,E,1,,0,0
 5659,NFL Fever 2004,XB,2003.0,Sports,Microsoft Game Studios,0.24,0.07,0.0,0.01,0.32,74.0,29.0,8.8,16.0,Microsoft Game Studios,E,1,13.0,0,0
 5662,FIFA Street 3,X360,2008.0,Sports,Electronic Arts,0.14,0.14,0.0,0.03,0.32,63.0,48.0,6.9,18.0,EA Canada,E,0,8.0,1,0
 5665,Test Drive Unlimited,X360,2006.0,Racing,Atari,0.23,0.04,0.02,0.02,0.32,82.0,69.0,8.0,86.0,Eden Studios,E10+,1,10.0,0,0
@@ -3381,7 +3326,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5756,Dark Void,X360,2010.0,Action,Capcom,0.19,0.09,0.0,0.03,0.31,59.0,69.0,6.0,61.0,Airtight Games,T,0,6.0,0,0
 5765,Manhunt 2,PSP,2007.0,Action,Take-Two Interactive,0.04,0.17,0.0,0.09,0.31,69.0,15.0,8.1,38.0,Rockstar London,M,1,9.0,0,0
 5766,Mega Man Maverick Hunter X,PSP,2005.0,Platform,Capcom,0.27,0.01,0.0,0.03,0.31,79.0,34.0,8.3,44.0,Capcom,E10+,1,11.0,1,0
-5769,Star Wars Jedi Knight II: Jedi Outcast,XB,,Shooter,Activision,0.23,0.07,0.0,0.01,0.31,81.0,24.0,6.8,15.0,Vicarious Visions,T,0,,1,0
 5770,Clash of the Titans,PS3,2010.0,Action,Namco Bandai Games,0.09,0.15,0.01,0.05,0.31,41.0,28.0,1.7,17.0,Game Republic,T,0,6.0,0,0
 5771,Mega Man Battle Network 2,GBA,2002.0,Action,Ubisoft,0.22,0.08,0.0,0.01,0.31,81.0,15.0,9.0,21.0,Capcom,E,1,14.0,1,0
 5772,Major League Baseball 2K8,PS3,2008.0,Sports,Bethesda Softworks,0.28,0.0,0.0,0.03,0.31,67.0,23.0,5.6,8.0,Kush Games,E,0,8.0,0,0
@@ -3433,7 +3377,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5886,One Piece Unlimited Cruise SP,3DS,2011.0,Action,Namco Bandai Games,0.0,0.0,0.3,0.0,0.3,46.0,20.0,7.3,14.0,Bandai Namco Games,,0,5.0,0,0
 5887,Madden NFL 13,PSV,2012.0,Sports,Electronic Arts,0.28,0.0,0.0,0.02,0.3,63.0,6.0,7.3,38.0,EA Tiburon,E,0,4.0,1,0
 5888,Army Men: Air Attack 2,PS,2000.0,Action,3DO,0.17,0.11,0.0,0.02,0.3,74.0,8.0,5.3,4.0,3DO,T,0,16.0,0,0
-5889,NBA Live 2003,GC,,Sports,Electronic Arts,0.23,0.06,0.0,0.01,0.3,82.0,11.0,8.2,5.0,EA Canada,E,1,,1,0
 5890,Stranglehold,PS3,2007.0,Shooter,Midway Games,0.24,0.02,0.0,0.03,0.3,77.0,22.0,7.9,48.0,Midway,M,0,9.0,0,0
 5891,Pride FC: Fighting Championships,PS2,2003.0,Fighting,THQ,0.15,0.11,0.0,0.04,0.3,73.0,19.0,8.6,7.0,Anchor,M,1,13.0,0,0
 5892,Eternal Ring,PS2,2000.0,Role-Playing,Ubisoft,0.1,0.07,0.1,0.03,0.3,62.0,13.0,5.3,9.0,From Software,T,0,16.0,0,0
@@ -3453,7 +3396,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 5926,Lego Star Wars: The Force Awakens,XOne,2016.0,Action,Warner Bros. Interactive Entertainment,0.14,0.13,0.0,0.02,0.3,76.0,11.0,7.0,18.0,TT Games,E10+,0,0.0,0,0
 5927,Little Deviants,PSV,2011.0,Platform,Sony Computer Entertainment,0.14,0.12,0.0,0.04,0.3,57.0,62.0,5.5,53.0,Bigbig Studios,E10+,0,5.0,0,0
 5928,Spider-Man 3,PSP,2007.0,Platform,Activision,0.01,0.23,0.0,0.05,0.3,52.0,7.0,7.4,9.0,Treyarch,T,0,9.0,0,0
-5932,Shrek the Third,DS,,Action,Activision,0.26,0.01,0.0,0.02,0.3,70.0,16.0,6.5,4.0,Vicarious Visions,E,0,,1,0
 5933,Radiant Historia,DS,2010.0,Role-Playing,Atlus,0.19,0.0,0.09,0.01,0.29,85.0,30.0,9.0,81.0,Atlus,E10+,1,6.0,0,0
 5934,Sorcery,PS3,2012.0,Action,Sony Computer Entertainment,0.14,0.11,0.0,0.05,0.29,70.0,52.0,7.3,57.0,The Workshop,E10+,0,4.0,0,0
 5937,Harry Potter and the Order of the Phoenix,X360,2007.0,Action,Electronic Arts,0.24,0.03,0.0,0.02,0.29,68.0,38.0,6.8,20.0,EA Games,E10+,0,9.0,0,0
@@ -3538,7 +3480,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6099,The Warriors,XB,2005.0,Action,Take-Two Interactive,0.21,0.06,0.0,0.01,0.28,85.0,55.0,8.2,21.0,Rockstar Toronto,M,1,11.0,0,0
 6100,Shadow Hearts,PS2,2001.0,Role-Playing,Midway Games,0.09,0.07,0.1,0.02,0.28,73.0,24.0,8.8,55.0,Sacnoth,M,1,15.0,0,0
 6101,Dragon Ball Z: Budokai Tenkaichi 2,Wii,2006.0,Fighting,Atari,0.24,0.03,0.0,0.02,0.28,72.0,37.0,8.5,40.0,Spike,T,1,10.0,0,0
-6102,Haven: Call of the King,PS2,,Platform,Midway Games,0.14,0.11,0.0,0.04,0.28,69.0,26.0,6.9,15.0,Traveller's Tales,T,0,,1,0
 6103,Street Hoops,XB,2002.0,Sports,Activision,0.21,0.06,0.0,0.01,0.28,58.0,22.0,8.0,4.0,Black Ops Entertainment,T,1,14.0,0,0
 6106,R: Racing Evolution,PS2,2003.0,Racing,Namco Bandai Games,0.14,0.11,0.0,0.04,0.28,66.0,35.0,6.2,5.0,Namco,T,0,13.0,1,0
 6109,The Golden Compass,PS3,2007.0,Action,Sega,0.14,0.1,0.0,0.05,0.28,40.0,17.0,4.8,16.0,Shiny Entertainment,E10+,0,9.0,0,0
@@ -3554,7 +3495,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6131,SAW,X360,2009.0,Action,Konami Digital Entertainment,0.13,0.12,0.0,0.03,0.28,59.0,39.0,7.4,50.0,Zombie Studios,M,0,7.0,0,0
 6132,Chromehounds,X360,2006.0,Simulation,Sega,0.24,0.0,0.01,0.02,0.28,71.0,60.0,7.0,72.0,From Software,T,0,10.0,0,0
 6133,Harry Potter and the Sorcerer's Stone,PS2,2003.0,Action,Electronic Arts,0.14,0.11,0.0,0.04,0.28,56.0,14.0,7.6,21.0,Warthog,E,0,13.0,0,0
-6134,Unreal Championship 2: The Liandri Conflict,XB,,Shooter,Midway Games,0.22,0.05,0.0,0.01,0.28,85.0,54.0,8.2,21.0,Epic Games,M,1,,0,0
 6135,Kung Fu Chaos,XB,2003.0,Fighting,Microsoft Game Studios,0.21,0.06,0.0,0.01,0.28,68.0,41.0,8.5,27.0,Just Add Monsters,T,1,13.0,0,0
 6138,Shrek the Third,Wii,2007.0,Action,Activision,0.25,0.01,0.0,0.02,0.28,57.0,28.0,6.7,7.0,Amaze Entertainment,E10+,0,9.0,0,0
 6143,Jackass the Game,PS2,2007.0,Action,Empire Interactive,0.14,0.11,0.0,0.04,0.28,58.0,24.0,6.6,14.0,Sidhe Interactive,M,0,9.0,0,0
@@ -3584,7 +3524,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6197,NHL Hitz 20-03,PS2,2002.0,Sports,Midway Games,0.14,0.11,0.0,0.04,0.28,82.0,19.0,8.4,11.0,Midway,E,1,14.0,0,0
 6198,Bionic Commando,X360,2009.0,Platform,Capcom,0.12,0.12,0.01,0.03,0.28,70.0,65.0,7.3,87.0,GRIN,M,0,7.0,0,0
 6199,Monopoly Streets,X360,2010.0,Misc,Electronic Arts,0.16,0.09,0.0,0.02,0.28,66.0,18.0,6.6,16.0,Electronic Arts,E,0,6.0,1,0
-6200,Pac-Man Fever,GC,,Misc,Unknown,0.21,0.06,0.0,0.01,0.28,54.0,10.0,6.3,6.0,Mass Media,E,0,,0,0
 6201,Trivial Pursuit,PS3,2009.0,Misc,Electronic Arts,0.12,0.11,0.0,0.05,0.28,66.0,13.0,7.1,7.0,EA Bright Light,E,0,7.0,0,0
 6202,Medieval Moves: Deadmund's Quest,PS3,2011.0,Action,Sony Computer Entertainment,0.13,0.11,0.0,0.04,0.28,61.0,41.0,6.5,17.0,Zindagi Games,E10+,0,5.0,0,0
 6206,Mister Mosquito,PS2,2001.0,Shooter,Eidos Interactive,0.05,0.04,0.17,0.01,0.28,65.0,23.0,4.9,11.0,Zoom,T,0,15.0,0,0
@@ -3621,7 +3560,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6287,Pro Race Driver,PS2,2002.0,Racing,Codemasters,0.13,0.1,0.0,0.03,0.27,81.0,22.0,8.5,20.0,Codemasters,T,1,14.0,1,0
 6290,Baten Kaitos: Eternal Wings and the Lost Ocean,GC,2003.0,Role-Playing,Nintendo,0.21,0.05,0.0,0.01,0.27,80.0,48.0,9.0,59.0,Monolith Soft,T,1,13.0,0,0
 6293,Iron Man 2,X360,2010.0,Action,Sega,0.15,0.09,0.0,0.03,0.27,41.0,35.0,5.9,54.0,Sega Studios San Francisco,T,0,6.0,0,0
-6294,Disgaea 3: Absence of Detention,PSV,,Role-Playing,Nippon Ichi Software,0.11,0.05,0.07,0.03,0.27,78.0,28.0,7.6,116.0,Nippon Ichi Software,T,0,,0,0
 6295,Rocky: Legends,PS2,2004.0,Action,Ubisoft,0.13,0.1,0.0,0.03,0.27,65.0,24.0,8.6,12.0,Venom Games,T,1,12.0,0,0
 6298,The Warriors,PSP,2007.0,Action,Take-Two Interactive,0.23,0.01,0.0,0.02,0.27,81.0,36.0,7.8,21.0,"Rockstar Toronto, Rockstar Leeds",M,0,9.0,0,0
 6304,RalliSport Challenge 2,XB,2004.0,Racing,Microsoft Game Studios,0.18,0.08,0.0,0.01,0.27,87.0,69.0,9.1,33.0,Digital Illusions,E,1,12.0,0,0
@@ -3645,14 +3583,12 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6339,Harry Potter and the Order of the Phoenix,PS2,2007.0,Action,Electronic Arts,0.13,0.1,0.0,0.03,0.27,61.0,17.0,8.0,28.0,EA Games,E10+,1,9.0,0,0
 6340,Transformers: Cybertron Adventures,Wii,2010.0,Action,Activision,0.14,0.1,0.0,0.02,0.27,41.0,15.0,6.5,8.0,Next Level Games,T,0,6.0,0,0
 6341,Stuntman: Ignition,PS2,2007.0,Racing,THQ,0.13,0.1,0.0,0.03,0.27,71.0,8.0,6.4,8.0,Paradigm Entertainment,T,0,9.0,0,0
-6343,Gun,X360,,Shooter,Activision,0.24,0.01,0.0,0.02,0.27,75.0,53.0,7.5,57.0,Neversoft Entertainment,M,0,,0,0
 6344,NHL 2K11,Wii,2010.0,Sports,Take-Two Interactive,0.23,0.02,0.0,0.02,0.27,62.0,12.0,5.8,4.0,Visual Concepts,E10+,0,6.0,1,0
 6345,Fantastic 4,XB,2005.0,Action,Activision,0.2,0.06,0.0,0.01,0.27,62.0,46.0,6.6,8.0,7 Studios,T,0,11.0,0,0
 6349,MotoGP,PS2,2000.0,Racing,Namco Bandai Games,0.06,0.05,0.14,0.02,0.27,77.0,16.0,6.0,5.0,Namco,E,0,16.0,1,0
 6351,Batman: Arkham Origins Blackgate,3DS,2013.0,Action,Warner Bros. Interactive Entertainment,0.16,0.09,0.0,0.02,0.27,68.0,7.0,6.8,38.0,Armature Studio,T,0,3.0,0,0
 6353,Shadows of the Damned,PS3,2011.0,Action,Electronic Arts,0.11,0.09,0.04,0.03,0.27,77.0,56.0,8.1,124.0,Grasshopper Manufacture,M,1,5.0,0,0
 6354,R.U.S.E.,PC,2010.0,Strategy,Ubisoft,0.04,0.19,0.0,0.04,0.27,76.0,33.0,8.1,176.0,Eugen Systems,T,1,6.0,0,0
-6357,Rock Revolution,PS3,,Misc,Unknown,0.25,0.0,0.0,0.02,0.27,42.0,20.0,6.6,12.0,"Zoe Mode, HB Studios Multimedia",T,0,,0,0
 6360,NBA Live 2004,GC,2003.0,Sports,Electronic Arts,0.21,0.05,0.0,0.01,0.27,84.0,17.0,9.0,4.0,EA Sports,E,1,13.0,1,0
 6372,Reign of Fire,PS2,2002.0,Shooter,BAM! Entertainment,0.13,0.1,0.0,0.03,0.27,56.0,16.0,7.0,4.0,Kuju Entertainment,M,0,14.0,0,0
 6376,The Sims 2: Pets,GC,2006.0,Simulation,Electronic Arts,0.21,0.05,0.0,0.01,0.27,66.0,15.0,7.3,8.0,Maxis,T,0,10.0,0,0
@@ -3754,7 +3690,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6621,Silent Hunter 5: Battle of the Atlantic,PC,2010.0,Simulation,Ubisoft,0.0,0.21,0.0,0.05,0.25,62.0,26.0,3.5,104.0,Ubisoft Romania,T,0,6.0,0,0
 6622,Amped 2,XB,2003.0,Sports,Microsoft Game Studios,0.2,0.04,0.0,0.01,0.25,80.0,34.0,7.7,20.0,Indie Built,E,0,13.0,0,0
 6624,Final Fantasy Crystal Chronicles: Echoes of Time,Wii,2009.0,Role-Playing,Square Enix,0.13,0.06,0.05,0.02,0.25,64.0,29.0,5.6,11.0,Square Enix,E10+,0,7.0,0,0
-6625,College Hoops 2K6,PS2,,Sports,Unknown,0.12,0.1,0.0,0.03,0.25,77.0,14.0,7.3,6.0,2K Sports,E,0,,0,0
 6627,NHL 08,PS3,2007.0,Action,Electronic Arts,0.16,0.06,0.0,0.03,0.25,86.0,23.0,6.9,23.0,EA Canada,E10+,0,9.0,1,0
 6630,The Legend of Legacy,3DS,2015.0,Role-Playing,FuRyu,0.12,0.01,0.1,0.02,0.25,67.0,31.0,7.1,54.0,FuRyu,E10+,0,1.0,0,0
 6631,Juiced 2: Hot Import Nights,PS3,2007.0,Racing,THQ,0.18,0.04,0.01,0.03,0.25,71.0,10.0,6.4,5.0,Juice Games,T,0,9.0,0,0
@@ -3821,7 +3756,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6770,Stella Glow,3DS,2015.0,Role-Playing,Atlus,0.16,0.01,0.05,0.02,0.24,79.0,32.0,8.7,82.0,"Image Epoch, Imageepoch",T,1,1.0,0,0
 6771,Racquet Sports,Wii,2010.0,Sports,Ubisoft,0.13,0.09,0.0,0.02,0.24,51.0,8.0,8.6,15.0,Asobo Studio,E,1,6.0,0,0
 6773,Trials Fusion,XOne,2014.0,Racing,Ubisoft,0.12,0.1,0.0,0.02,0.24,80.0,28.0,7.1,158.0,RedLynx,E10+,0,2.0,0,0
-6774,Mega Man X Collection,PS2,,Misc,Unknown,0.12,0.09,0.0,0.03,0.24,73.0,23.0,8.8,14.0,Capcom,E,1,,1,0
 6776,Far Cry Instincts Predator,X360,2006.0,Shooter,Ubisoft,0.2,0.03,0.0,0.02,0.24,78.0,46.0,6.2,80.0,Ubisoft Montreal,M,0,10.0,1,0
 6778,Onechanbara Z2: Chaos,PS4,2014.0,Action,Nippon Ichi Software,0.14,0.03,0.04,0.04,0.24,57.0,40.0,6.5,72.0,"Tamsoft, D3Publisher",M,0,2.0,0,0
 6780,Skylanders SWAP Force,3DS,2013.0,Platform,Activision,0.1,0.12,0.0,0.02,0.24,68.0,12.0,6.4,13.0,n-Space,E10+,0,3.0,0,0
@@ -3847,7 +3781,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6816,Burnout 2: Point of Impact,XB,2003.0,Racing,Acclaim Entertainment,0.18,0.05,0.0,0.01,0.24,88.0,23.0,5.1,23.0,Criterion Games,E,0,13.0,0,0
 6817,Super Monkey Ball Deluxe,PS2,2005.0,Misc,Sega,0.12,0.09,0.0,0.03,0.24,78.0,25.0,7.7,13.0,Sega,E,0,11.0,0,0
 6818,Kill.Switch,XB,2003.0,Shooter,Namco Bandai Games,0.18,0.05,0.0,0.01,0.24,75.0,26.0,8.0,7.0,Namco,T,1,13.0,1,0
-6819,BioShock 2,PC,,Shooter,Take-Two Interactive,0.02,0.19,0.0,0.04,0.24,88.0,36.0,8.0,1247.0,2K Marin,M,1,,0,0
 6820,Lunar: Silver Star Harmony,PSP,2009.0,Role-Playing,GungHo,0.19,0.0,0.03,0.02,0.24,80.0,26.0,7.7,47.0,Game Arts,T,0,7.0,0,0
 6821,Peter Jackson's King Kong: The Official Game of the Movie,GC,2005.0,Action,Ubisoft,0.19,0.05,0.0,0.01,0.24,81.0,30.0,8.3,8.0,Ubisoft Montpellier,T,1,11.0,0,0
 6822,Dancing With The Stars,Wii,2007.0,Misc,Activision,0.22,0.0,0.0,0.02,0.24,42.0,5.0,6.2,5.0,Zoe Mode,E10+,0,9.0,0,0
@@ -3866,7 +3799,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6858,Bakugan: Battle Brawlers,X360,2009.0,Action,Activision,0.2,0.02,0.0,0.02,0.24,60.0,16.0,5.2,9.0,Now Production,E,0,7.0,0,0
 6859,Fantastic 4,GC,2005.0,Action,Activision,0.19,0.05,0.0,0.01,0.24,61.0,32.0,4.0,6.0,7 Studios,T,0,11.0,0,0
 6861,Tony Hawk's American Sk8land,GBA,2005.0,Sports,Activision,0.17,0.06,0.0,0.0,0.24,64.0,7.0,5.4,5.0,Vicarious Visions,E,0,11.0,1,0
-6862,Singularity,PS3,,Shooter,Unknown,0.17,0.04,0.01,0.03,0.24,77.0,48.0,7.7,100.0,Raven Software,M,0,,0,0
 6863,Metro 2033,PC,2010.0,Shooter,THQ,0.0,0.19,0.0,0.05,0.24,81.0,40.0,8.1,1472.0,4A Games,M,1,6.0,0,0
 6869,Valhalla Knights,PSP,2006.0,Role-Playing,Rising Star Games,0.15,0.0,0.07,0.01,0.24,53.0,29.0,6.3,15.0,K2 LLC,E10+,0,10.0,0,0
 6875,The Adventures of Tintin: The Game,X360,2011.0,Action,Ubisoft,0.07,0.13,0.0,0.03,0.24,63.0,35.0,6.1,12.0,Ubisoft Montpellier,E10+,0,5.0,0,0
@@ -3934,10 +3866,8 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 6991,The Incredible Hulk: Ultimate Destruction,XB,2005.0,Action,Vivendi Games,0.17,0.05,0.0,0.01,0.23,84.0,47.0,8.0,22.0,Radical Entertainment,T,1,11.0,0,0
 6994,Gundam Battle Assault,PS,1998.0,Fighting,Namco Bandai Games,0.13,0.09,0.0,0.02,0.23,61.0,4.0,7.8,4.0,Natsume,T,0,18.0,0,0
 6996,XCOM 2,PC,2016.0,Strategy,Take-Two Interactive,0.09,0.12,0.0,0.02,0.23,88.0,104.0,7.1,1221.0,Firaxis Games,T,0,0.0,0,0
-7000,Tony Hawk's Downhill Jam,Wii,,Sports,Activision,0.21,0.0,0.0,0.02,0.23,69.0,42.0,6.2,13.0,Toys for Bob,E10+,0,,0,0
 7002,Cross Edge,PS3,2008.0,Role-Playing,Nippon Ichi Software,0.14,0.02,0.05,0.02,0.23,52.0,32.0,7.2,82.0,Compile Heart,T,0,8.0,0,0
 7004,The Lord of the Rings: Aragorn's Quest,Wii,2010.0,Action,Warner Bros. Interactive Entertainment,0.17,0.05,0.0,0.02,0.23,58.0,21.0,7.8,5.0,Headstrong Games,T,0,6.0,0,0
-7009,Tribes: Aerial Assault,PS2,,Shooter,Unknown,0.11,0.09,0.0,0.03,0.23,73.0,23.0,8.8,47.0,Midway Studios - Austin,T,1,,0,0
 7012,Looney Tunes: Acme Arsenal,Wii,2007.0,Action,Warner Bros. Interactive Entertainment,0.21,0.01,0.0,0.02,0.23,27.0,7.0,5.1,14.0,Red Tribe,E10+,0,9.0,0,0
 7017,Madagascar: Escape 2 Africa,PS3,2008.0,Action,Activision,0.12,0.08,0.0,0.03,0.23,58.0,13.0,6.8,4.0,Toys for Bob,E10+,0,8.0,0,0
 7021,NBA 2K6,X360,2005.0,Action,Take-Two Interactive,0.21,0.01,0.0,0.02,0.23,81.0,33.0,8.6,31.0,Visual Concepts,E,1,11.0,1,0
@@ -4018,7 +3948,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 7200,Tetris Worlds,GC,2002.0,Puzzle,THQ,0.17,0.04,0.0,0.01,0.22,47.0,10.0,5.6,8.0,Radical Entertainment,E,0,14.0,0,0
 7206,The Sims 4: Get Together,PC,2015.0,Simulation,Electronic Arts,0.05,0.15,0.0,0.02,0.22,72.0,16.0,7.3,117.0,Maxis,T,0,1.0,0,0
 7208,Viewtiful Joe 2,GC,2004.0,Action,Capcom,0.17,0.04,0.0,0.01,0.22,86.0,39.0,8.3,19.0,Clover Studio,T,1,12.0,0,0
-7211,LEGO Harry Potter: Years 5-7,PC,,Action,Warner Bros. Interactive Entertainment,0.05,0.14,0.0,0.03,0.22,80.0,5.0,8.5,44.0,Traveller's Tales,E10+,1,,1,0
 7212,Child of Eden,PS3,2011.0,Shooter,Ubisoft,0.09,0.1,0.0,0.04,0.22,81.0,21.0,7.8,25.0,Q Entertainment,E10+,0,5.0,0,0
 7217,Touch the Dead,DS,2007.0,Shooter,Eidos Interactive,0.2,0.0,0.0,0.02,0.22,56.0,31.0,5.6,5.0,Secret Stash Games,M,0,9.0,0,0
 7219,Nickelodeon Party Blast,XB,2002.0,Misc,Infogrames,0.16,0.05,0.0,0.01,0.22,19.0,4.0,4.3,7.0,Data Design Interactive,E,0,14.0,0,0
@@ -4071,7 +4000,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 7324,Rampage: Total Destruction,Wii,2006.0,Action,Midway Games,0.19,0.01,0.0,0.02,0.21,46.0,21.0,5.6,19.0,"Pipeworks Software, Inc.",E10+,0,10.0,0,0
 7327,The Bard's Tale,PS2,2004.0,Role-Playing,Ubisoft,0.1,0.08,0.0,0.03,0.21,76.0,44.0,8.6,14.0,InXile Entertainment,T,1,12.0,0,0
 7331,Robotech: The Macross Saga,GBA,2002.0,Shooter,TDK Mediactive,0.15,0.06,0.0,0.0,0.21,61.0,8.0,6.5,4.0,Lucky Chicken,E,0,14.0,0,0
-7333,Yu Yu Hakusho: Dark Tournament,PS2,,Fighting,,0.1,0.08,0.0,0.03,0.21,56.0,15.0,8.5,18.0,Digital Fiction,T,1,,0,0
 7336,Conflict Zone,PS2,2002.0,Strategy,Ubisoft,0.1,0.08,0.0,0.03,0.21,47.0,7.0,7.4,8.0,MASA Group,T,0,14.0,0,0
 7338,Code Name: S.T.E.A.M.,3DS,2015.0,Strategy,Nintendo,0.14,0.05,0.01,0.02,0.21,69.0,69.0,7.7,125.0,Intelligent Systems,T,0,1.0,0,0
 7339,The Bureau: XCOM Declassified,X360,2013.0,Shooter,Take-Two Interactive,0.1,0.1,0.0,0.02,0.21,68.0,30.0,6.7,118.0,2K Marin,M,0,3.0,0,0
@@ -4091,7 +4019,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 7363,50 Cent: Blood on the Sand,X360,2009.0,Shooter,THQ,0.12,0.07,0.0,0.02,0.21,71.0,54.0,6.4,64.0,Swordfish Studios,M,0,7.0,0,0
 7365,Journey,PS3,2012.0,Adventure,Sony Computer Entertainment Europe,0.04,0.13,0.0,0.04,0.21,92.0,78.0,8.8,1381.0,ThatGameCompany,E,1,4.0,0,0
 7367,SBK X: Superbike World Championship,PS3,2010.0,Racing,Black Bean Games,0.05,0.12,0.0,0.04,0.21,73.0,4.0,7.5,4.0,Milestone S.r.l,E10+,0,6.0,0,0
-7368,Robotech: Battlecry,XB,,Shooter,Unknown,0.16,0.05,0.0,0.01,0.21,74.0,22.0,7.0,10.0,Vicious Cycle,T,0,,0,0
 7372,Dragon Ball: Fusions,3DS,2016.0,Role-Playing,Namco Bandai Games,0.02,0.0,0.19,0.0,0.21,68.0,12.0,7.6,16.0,Ganbarion,T,0,0.0,0,0
 7373,Madden NFL 07,DS,2006.0,Sports,Electronic Arts,0.2,0.0,0.0,0.02,0.21,70.0,9.0,6.5,10.0,Exient Entertainment,E,0,10.0,0,0
 7374,HBO Boxing,PS,2000.0,Fighting,Acclaim Entertainment,0.12,0.08,0.0,0.01,0.21,26.0,7.0,4.0,5.0,Osiris Studios,E,0,16.0,0,0
@@ -4202,7 +4129,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 7581,Kung Fu Rider,PS3,2010.0,Action,Sony Computer Entertainment,0.06,0.09,0.01,0.03,0.2,36.0,45.0,3.7,21.0,SCE Japan Studio,E10+,0,6.0,0,0
 7583,DarkStar One: Broken Alliance,X360,2010.0,Simulation,Kalypso Media,0.11,0.07,0.0,0.02,0.2,63.0,33.0,7.2,19.0,Gaming Minds Studios,T,0,6.0,0,0
 7584,Dragon Ball: Xenoverse 2,XOne,2016.0,Action,Namco Bandai Games,0.11,0.07,0.0,0.02,0.2,73.0,8.0,7.3,29.0,Dimps Corporation,T,0,0.0,0,0
-7585,WRC: FIA World Rally Championship,PS3,,Racing,Black Bean Games,0.0,0.14,0.01,0.04,0.2,68.0,24.0,4.5,4.0,Milestone S.r.l,,0,,0,0
 7586,Odin Sphere: Leifthrasir,PS4,2016.0,Role-Playing,Nippon Ichi Software,0.07,0.04,0.07,0.02,0.2,87.0,49.0,8.2,178.0,Vanillaware,T,1,0.0,0,0
 7589,Ty the Tasmanian Tiger 2: Bush Rescue,GC,2004.0,Platform,Electronic Arts,0.15,0.04,0.0,0.01,0.2,70.0,20.0,8.6,11.0,Krome Studios,E,1,12.0,0,0
 7590,Body and Brain Connection,X360,2010.0,Misc,Namco Bandai Games,0.1,0.08,0.0,0.02,0.2,57.0,33.0,4.8,4.0,Namco Bandai Games,E,0,6.0,0,0
@@ -4266,11 +4192,9 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 7719,Tom Clancy's Splinter Cell: Essentials,PSP,2006.0,Shooter,Ubisoft,0.17,0.01,0.0,0.02,0.19,58.0,37.0,7.5,39.0,Ubisoft,M,0,10.0,1,0
 7723,Major League Baseball 2K12,PS3,2012.0,Sports,Take-Two Interactive,0.18,0.0,0.0,0.02,0.19,68.0,8.0,4.4,5.0,Visual Concepts,E,0,4.0,1,0
 7724,Family Guy,PSP,2006.0,Action,Take-Two Interactive,0.18,0.0,0.0,0.02,0.19,51.0,14.0,6.3,15.0,High Voltage Software,M,0,10.0,0,0
-7725,Dead Space 3,PC,,Action,Electronic Arts,0.02,0.16,0.0,0.02,0.19,78.0,16.0,6.0,1096.0,Visceral Games,M,0,,0,0
 7726,Sniper Elite,PS2,2005.0,Shooter,Ubisoft,0.1,0.07,0.0,0.02,0.19,76.0,21.0,8.9,36.0,Rebellion,M,1,11.0,0,0
 7729,Harry Potter and the Goblet of Fire,PSP,2005.0,Action,Electronic Arts,0.17,0.0,0.0,0.02,0.19,70.0,13.0,7.4,16.0,Electronic Arts,E10+,0,11.0,1,0
 7732,Breath of Fire II,GBA,2001.0,Role-Playing,Ubisoft,0.14,0.05,0.0,0.0,0.19,81.0,16.0,8.8,16.0,Capcom,E,1,15.0,1,0
-7736,Test Drive Unlimited 2,PC,,Racing,Atari,0.05,0.11,0.0,0.03,0.19,72.0,19.0,5.7,253.0,Eden,T,0,,0,0
 7737,UFC Personal Trainer: The Ultimate Fitness System,PS3,2011.0,Sports,THQ,0.08,0.08,0.0,0.03,0.19,65.0,8.0,2.4,5.0,THQ,E,0,5.0,0,0
 7739,Conan,X360,2007.0,Action,THQ,0.16,0.02,0.0,0.01,0.19,69.0,49.0,7.3,67.0,Nihilistic,M,0,9.0,0,0
 7746,No More Heroes: Heroes' Paradise,PS3,2010.0,Action,Konami Digital Entertainment,0.1,0.04,0.04,0.02,0.19,72.0,38.0,7.3,38.0,FeelPlus,M,0,6.0,0,0
@@ -4393,7 +4317,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8008,NARC,XB,2005.0,Shooter,Midway Games,0.14,0.04,0.0,0.01,0.18,51.0,27.0,2.8,6.0,Point of View,M,0,11.0,0,0
 8009,Driver: San Francisco,PC,2011.0,Racing,Ubisoft,0.05,0.1,0.0,0.03,0.18,80.0,11.0,7.0,332.0,Ubisoft Reflections,T,0,5.0,0,0
 8013,Shape Up,XOne,2014.0,Misc,Ubisoft,0.08,0.09,0.0,0.01,0.18,58.0,6.0,8.3,28.0,Ubisoft Montreal,E,1,2.0,1,0
-8024,Star Trek: Legacy,X360,,Simulation,Ubisoft,0.14,0.02,0.0,0.01,0.18,64.0,41.0,5.5,42.0,Mad Doc Software,E10+,0,,0,0
 8027,Amplitude,PS2,2003.0,Misc,Sony Computer Entertainment,0.09,0.07,0.0,0.02,0.18,86.0,35.0,8.8,26.0,Harmonix Music Systems,T,1,13.0,0,0
 8028,Disgaea DS,DS,2008.0,Role-Playing,Square Enix,0.11,0.01,0.05,0.01,0.18,82.0,32.0,7.5,35.0,Nippon Ichi Software,T,0,8.0,0,0
 8029,Gauntlet: Seven Sorrows,XB,2005.0,Role-Playing,Midway Games,0.14,0.04,0.0,0.01,0.18,61.0,36.0,7.8,4.0,Midway,T,0,11.0,0,0
@@ -4414,7 +4337,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8060,LEGO Harry Potter: Years 5-7,PSV,2012.0,Action,Warner Bros. Interactive Entertainment,0.07,0.07,0.0,0.03,0.18,64.0,19.0,6.8,21.0,Traveller's Tales,E10+,0,4.0,1,0
 8063,Corpse Party: Blood Drive,PSV,2014.0,Adventure,Marvelous Interactive,0.08,0.01,0.06,0.03,0.18,60.0,19.0,7.4,58.0,5pb,M,0,2.0,0,0
 8064,The Last Airbender,DS,2010.0,Action,THQ,0.13,0.04,0.0,0.01,0.18,69.0,6.0,7.0,4.0,THQ,E10+,0,6.0,0,0
-8068,Backbreaker,X360,,Sports,Unknown,0.17,0.0,0.0,0.01,0.18,54.0,29.0,7.6,68.0,NaturalMotion,E,0,,0,0
 8070,MotoGP 14 ,PS4,2014.0,Racing,Milestone S.r.l.,0.04,0.11,0.0,0.03,0.18,73.0,28.0,6.4,26.0,Milestone S.r.l,E,0,2.0,0,0
 8072,Alone in the Dark,Wii,2008.0,Adventure,Atari,0.09,0.08,0.0,0.02,0.18,39.0,10.0,4.4,34.0,Hydravision,M,0,8.0,0,0
 8075,Six Flags Fun Park,DS,2008.0,Misc,Brash Entertainment,0.17,0.0,0.0,0.01,0.18,34.0,4.0,7.0,4.0,Brash Entertainment,E,0,8.0,0,0
@@ -4457,8 +4379,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8147,Splatterhouse,X360,2010.0,Action,Namco Bandai Games,0.14,0.03,0.0,0.01,0.18,62.0,51.0,7.6,60.0,"Namco Bandai Games America, Namco Bandai Games",M,0,6.0,0,0
 8148,EyeToy: Groove,PS2,2003.0,Misc,Sony Computer Entertainment,0.09,0.07,0.0,0.02,0.18,73.0,34.0,8.0,5.0,SCEE,E,1,13.0,0,0
 8149,You Don't Know Jack,PS3,2011.0,Misc,THQ,0.16,0.0,0.0,0.01,0.18,82.0,11.0,7.3,18.0,"Jellyvision, Iron Galaxy Studios",T,0,5.0,0,0
-8151,Twisted Metal: Small Brawl,PS,,Action,Unknown,0.1,0.07,0.0,0.01,0.18,51.0,14.0,7.6,49.0,Incognito Inc.,T,0,,0,0
-8152,Otomedius Excellent,X360,,Shooter,Unknown,0.13,0.0,0.04,0.01,0.18,48.0,8.0,8.1,16.0,Konami,T,1,,1,0
 8153,Charlie and the Chocolate Factory,GC,2005.0,Adventure,Global Star,0.14,0.04,0.0,0.0,0.18,39.0,16.0,3.2,6.0,"High Voltage Software, Backbone Entertainment",E,0,11.0,0,0
 8154,Armored Core: Last Raven,PS2,2005.0,Simulation,505 Games,0.05,0.04,0.08,0.01,0.18,59.0,16.0,8.9,14.0,From Software,T,1,11.0,0,0
 8155,Burnout Legends,DS,2005.0,Racing,Electronic Arts,0.15,0.02,0.0,0.01,0.18,38.0,12.0,6.0,59.0,Visual Impact,E,0,11.0,0,0
@@ -4476,7 +4396,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8189,NHL 2004,XB,2003.0,Sports,Electronic Arts,0.13,0.04,0.0,0.01,0.18,85.0,21.0,6.5,31.0,EA Black Box,E,0,13.0,0,0
 8194,Velvet Assassin,X360,2009.0,Shooter,DTP Entertainment,0.14,0.02,0.01,0.01,0.18,56.0,46.0,7.1,55.0,"Replay Studios, ML Enterprises",M,0,7.0,0,0
 8196,MindJack,PS3,2011.0,Shooter,Square Enix,0.07,0.07,0.0,0.03,0.18,44.0,31.0,1.7,46.0,FeelPlus,M,0,5.0,0,0
-8198,NBA Starting Five,PS2,,Sports,Unknown,0.09,0.07,0.0,0.02,0.18,53.0,10.0,7.3,7.0,Konami,E,0,,1,0
 8199,NBA Live 16,PS4,2015.0,Sports,Electronic Arts,0.1,0.04,0.0,0.03,0.18,59.0,27.0,6.1,70.0,EA Sports,E,0,1.0,1,0
 8200,WWE SmackDown vs. Raw 2009,DS,2008.0,Fighting,THQ,0.14,0.02,0.0,0.01,0.18,58.0,15.0,7.8,6.0,TOSE,T,0,8.0,0,0
 8201,Dead or Alive Paradise,PSP,2010.0,Misc,Ubisoft Annecy,0.07,0.02,0.07,0.02,0.18,38.0,34.0,5.6,37.0,"Team Ninja, Tecmo",M,0,6.0,0,0
@@ -4500,12 +4419,10 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8247,True Crime: New York City,GC,2005.0,Action,Activision,0.13,0.03,0.0,0.0,0.17,59.0,25.0,8.8,24.0,Exakt,M,1,11.0,0,0
 8248,Metal Arms: Glitch in the System,XB,2003.0,Shooter,Vivendi Games,0.13,0.04,0.0,0.01,0.17,82.0,35.0,8.7,15.0,Swingin' Ape,T,1,13.0,0,0
 8250,Toukiden Kiwami,PS4,2015.0,Action,Tecmo Koei,0.05,0.07,0.02,0.02,0.17,74.0,35.0,7.6,74.0,Koei Tecmo Games,T,0,1.0,0,0
-8251,Trauma Team,Wii,,Simulation,Unknown,0.14,0.0,0.02,0.01,0.17,82.0,29.0,8.8,25.0,Atlus,T,1,,0,0
 8252,The Secret World,PC,2012.0,Role-Playing,Funcom,0.07,0.08,0.0,0.02,0.17,74.0,55.0,8.2,1326.0,Funcom,M,1,4.0,0,0
 8256,MDK2 Armageddon,PS2,2001.0,Shooter,Virgin Interactive,0.08,0.07,0.0,0.02,0.17,80.0,19.0,8.3,11.0,BioWare,T,1,15.0,0,0
 8258,NHL 2K9,X360,2008.0,Sports,Take-Two Interactive,0.15,0.01,0.0,0.01,0.17,69.0,33.0,6.7,7.0,Visual Concepts,E10+,0,8.0,1,0
 8260,Fight Night Round 2,GC,2005.0,Fighting,Electronic Arts,0.13,0.03,0.0,0.0,0.17,87.0,32.0,7.9,7.0,EA Sports,T,0,11.0,1,0
-8261,Backbreaker,PS3,,Sports,Unknown,0.16,0.0,0.0,0.01,0.17,58.0,25.0,7.0,52.0,NaturalMotion,E,0,,0,0
 8262,Disney's Atlantis: The Lost Empire,PS,2001.0,Platform,Sony Computer Entertainment,0.1,0.07,0.0,0.01,0.17,73.0,7.0,8.5,6.0,Eurocom Entertainment Software,E,1,15.0,0,0
 8271,Stormrise,PS3,2009.0,Strategy,Sega,0.13,0.02,0.0,0.02,0.17,51.0,28.0,5.3,20.0,Creative Assembly,M,0,7.0,0,0
 8272,Psi-Ops: The Mindgate Conspiracy,XB,2004.0,Shooter,Midway Games,0.13,0.04,0.0,0.01,0.17,84.0,55.0,7.9,18.0,Midway,M,0,12.0,0,0
@@ -4529,7 +4446,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8314,Batman Begins,GBA,2005.0,Action,Electronic Arts,0.12,0.05,0.0,0.0,0.17,61.0,5.0,6.9,9.0,Vicarious Visions,E10+,0,11.0,1,0
 8315,Mercury Meltdown Revolution,Wii,2007.0,Action,Ignition Entertainment,0.16,0.0,0.0,0.01,0.17,77.0,41.0,7.4,16.0,Ignition Entertainment,E,0,9.0,0,0
 8319,Let's TAP,Wii,2008.0,Misc,Sega,0.08,0.06,0.01,0.02,0.17,70.0,47.0,6.6,11.0,Prope,E,0,8.0,0,0
-8320,James Cameron's Dark Angel,PS2,,Action,Universal Interactive,0.08,0.07,0.0,0.02,0.17,48.0,17.0,6.5,19.0,Radical Entertainment,T,0,,0,0
 8325,The Lord of the Rings: Aragorn's Quest,PS3,2010.0,Action,Warner Bros. Interactive Entertainment,0.1,0.04,0.0,0.02,0.17,58.0,12.0,6.0,8.0,TT Fusion,T,0,6.0,0,0
 8326,Spawn: Armageddon,XB,2003.0,Action,Electronic Arts,0.13,0.04,0.0,0.01,0.17,57.0,27.0,9.2,5.0,Point of View,M,1,13.0,0,0
 8332,Bee Movie Game,X360,2007.0,Action,Activision,0.16,0.0,0.0,0.01,0.17,71.0,25.0,5.8,13.0,Beenox,E,0,9.0,0,0
@@ -4610,7 +4526,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8496,F1 2011,3DS,2011.0,Racing,Codemasters,0.07,0.08,0.0,0.02,0.16,59.0,15.0,6.8,13.0,Codemasters,E,0,5.0,1,0
 8498,Guilty Gear Judgment,PSP,2006.0,Fighting,Majesco Entertainment,0.13,0.0,0.02,0.01,0.16,77.0,17.0,6.6,8.0,Arc System Works,T,0,10.0,0,0
 8500,NCAA Football 09 All-Play,Wii,2008.0,Sports,Electronic Arts,0.15,0.0,0.0,0.01,0.16,49.0,5.0,5.8,32.0,EA Canada,E,0,8.0,1,0
-8501,Splatterhouse,PS3,,Action,Namco Bandai Games,0.13,0.02,0.0,0.02,0.16,59.0,49.0,7.7,67.0,"Namco Bandai Games America, Namco Bandai Games",M,0,,0,0
 8503,Doctor Lautrec and the Forgotten Knights,3DS,2011.0,Adventure,Konami Digital Entertainment,0.07,0.05,0.03,0.01,0.16,53.0,19.0,6.1,8.0,WinkySoft,E10+,0,5.0,0,0
 8509,Hot Wheels World Race,GC,2003.0,Racing,THQ,0.13,0.03,0.0,0.0,0.16,59.0,5.0,7.0,5.0,Climax Group,E,0,13.0,0,0
 8513,Castlevania Judgment,Wii,2008.0,Fighting,Konami Digital Entertainment,0.12,0.02,0.01,0.01,0.16,49.0,33.0,5.9,56.0,Eighting,T,0,8.0,0,0
@@ -4634,7 +4549,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8544,The Incredibles: Rise of the Underminer,GC,2005.0,Action,THQ,0.12,0.03,0.0,0.0,0.16,67.0,7.0,6.6,7.0,Heavy Iron Studios,E10+,0,11.0,0,0
 8545,Beowulf: The Game,PS3,2007.0,Action,Ubisoft,0.14,0.01,0.0,0.01,0.16,51.0,18.0,5.2,17.0,Ubisoft,M,0,9.0,1,0
 8546,Dewy's Adventure,Wii,2007.0,Platform,Konami Digital Entertainment,0.14,0.0,0.01,0.01,0.16,67.0,29.0,6.3,15.0,Konami,E,0,9.0,1,0
-8548,Alone in the Dark: The New Nightmare,PS,,Adventure,Infogrames,0.09,0.06,0.0,0.01,0.16,77.0,15.0,8.1,40.0,Darkworks,M,1,,0,0
 8549,The BIGS,PS3,2007.0,Sports,Take-Two Interactive,0.15,0.0,0.0,0.01,0.16,77.0,19.0,7.2,12.0,Blue Castle Games,E,0,9.0,0,0
 8550,Fracture,PS3,2008.0,Shooter,LucasArts,0.11,0.04,0.0,0.02,0.16,62.0,40.0,5.8,18.0,Day 1 Studios,T,0,8.0,0,0
 8552,NBA Live 08,Wii,2007.0,Sports,Electronic Arts,0.14,0.0,0.0,0.01,0.16,52.0,11.0,7.1,21.0,EA Canada,E,0,9.0,1,0
@@ -4675,7 +4589,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8675,Battlestar Galactica,PS2,2003.0,Shooter,Vivendi Games,0.08,0.06,0.0,0.02,0.16,66.0,22.0,6.8,6.0,Warthog,T,0,13.0,0,0
 8676,Time Hollow,DS,2008.0,Adventure,Konami Digital Entertainment,0.03,0.01,0.11,0.0,0.16,64.0,24.0,7.8,21.0,Tenky,T,0,8.0,0,0
 8679,Tak and the Guardians of Gross,Wii,2008.0,Action,THQ,0.14,0.0,0.0,0.01,0.16,63.0,5.0,8.0,5.0,THQ,E10+,1,8.0,0,0
-8681,Jurassic Park: The Game,X360,,Action,Unknown,0.15,0.0,0.0,0.01,0.16,60.0,9.0,3.6,138.0,Telltale Games,T,0,,0,0
 8687,Dynasty Warriors 8: Xtreme Legends,PS3,2013.0,Action,Tecmo Koei,0.02,0.02,0.11,0.01,0.16,68.0,4.0,6.8,9.0,Omega Force,T,0,3.0,1,0
 8688,Godzilla Unleashed,Wii,2007.0,Fighting,Atari,0.14,0.0,0.0,0.01,0.16,44.0,31.0,7.2,37.0,"Pipeworks Software, Inc.",E10+,0,9.0,0,0
 8693,Sherlock Holmes vs. Jack the Ripper,X360,2009.0,Adventure,Focus Home Interactive,0.11,0.03,0.0,0.01,0.16,62.0,24.0,6.8,14.0,Frogwares,T,0,7.0,0,0
@@ -4763,7 +4676,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8870,X-Men: The Official Game,GC,2006.0,Action,Activision,0.12,0.03,0.0,0.0,0.15,50.0,31.0,6.3,8.0,Hypnos,T,0,10.0,0,0
 8880,187: Ride or Die,PS2,2005.0,Racing,Ubisoft,0.07,0.06,0.0,0.02,0.15,52.0,33.0,6.8,12.0,Ubisoft,M,0,11.0,1,0
 8884,Battleborn,XOne,2016.0,Shooter,Take-Two Interactive,0.1,0.04,0.0,0.01,0.15,71.0,20.0,7.2,171.0,Gearbox Software,T,0,0.0,0,0
-8885,eJay Clubworld,PS2,,Misc,Empire Interactive,0.07,0.06,0.0,0.02,0.15,69.0,5.0,8.6,10.0,UDS,E,1,,0,0
 8886,Geist,GC,2005.0,Adventure,Nintendo,0.11,0.03,0.0,0.0,0.15,66.0,43.0,8.5,23.0,n-Space,M,1,11.0,0,0
 8887,The King of Fighters XIV,PS4,2016.0,Fighting,Deep Silver,0.07,0.02,0.04,0.02,0.15,79.0,54.0,8.7,208.0,SNK Playmore,T,1,0.0,0,0
 8889,Sword Art Online: Hollow Realization,PSV,2016.0,Role-Playing,Namco Bandai Games,0.0,0.04,0.1,0.01,0.15,60.0,5.0,7.0,8.0,Bandai Namco Games,T,0,0.0,0,0
@@ -4779,7 +4691,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 8911,The Incredible Hulk: Ultimate Destruction,GC,2005.0,Action,Vivendi Games,0.11,0.03,0.0,0.0,0.15,84.0,30.0,9.1,14.0,Radical Entertainment,T,1,11.0,0,0
 8913,Prince of Persia: The Two Thrones,GC,2005.0,Action,Ubisoft,0.11,0.03,0.0,0.0,0.15,84.0,34.0,8.1,22.0,Ubisoft,M,1,11.0,1,0
 8914,Blazing Angels 2: Secret Missions of WWII,PS3,2007.0,Simulation,Ubisoft,0.1,0.03,0.0,0.02,0.15,70.0,10.0,7.2,12.0,Ubisoft Romania,T,0,9.0,0,0
-8919,All-Star Baseball 2005,XB,,Sports,Unknown,0.11,0.03,0.0,0.01,0.15,75.0,31.0,8.8,12.0,Acclaim,E,1,,0,0
 8920,The Legend of Heroes: Trails of Cold Steel II,PS3,2014.0,Role-Playing,Nippon Ichi Software,0.02,0.02,0.11,0.01,0.15,90.0,4.0,7.8,71.0,Falcom,T,0,2.0,0,0
 8923,Batman Begins,GC,2005.0,Action,Electronic Arts,0.11,0.03,0.0,0.0,0.15,66.0,38.0,7.2,10.0,Eurocom Entertainment Software,T,0,11.0,0,0
 8926,Toy Story Racer,PS,2001.0,Racing,Activision,0.08,0.06,0.0,0.01,0.15,76.0,8.0,8.7,9.0,Traveller's Tales,E,1,15.0,1,0
@@ -4836,7 +4747,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 9038,Just Cause 3,PC,2015.0,Action,Square Enix,0.03,0.11,0.0,0.01,0.14,74.0,50.0,5.3,529.0,Avalanche Studios,M,0,1.0,0,0
 9040,Phantom Brave,PS2,2004.0,Role-Playing,Tecmo Koei,0.07,0.05,0.0,0.02,0.14,81.0,40.0,7.9,22.0,Nippon Ichi Software,T,0,12.0,0,0
 9041,Thor: God of Thunder,X360,2011.0,Action,Sega,0.09,0.04,0.0,0.01,0.14,38.0,40.0,5.7,22.0,Liquid Entertainment,T,0,5.0,0,0
-9044,Bejeweled 3,PS3,,Puzzle,Unknown,0.13,0.0,0.0,0.02,0.14,76.0,5.0,8.2,5.0,PopCap,E,1,,0,0
 9052,FIFA Soccer 2005,GC,2004.0,Sports,Electronic Arts,0.11,0.03,0.0,0.0,0.14,78.0,22.0,8.5,6.0,EA Canada,E,1,12.0,1,0
 9053,Harvest Moon: Hero of Leaf Valley,PSP,2009.0,Simulation,Rising Star Games,0.07,0.02,0.05,0.01,0.14,74.0,6.0,7.9,12.0,Marvelous Entertainment,E,0,7.0,0,0
 9055,Hexyz Force,PSP,2009.0,Role-Playing,Atlus,0.07,0.0,0.06,0.01,0.14,68.0,13.0,7.3,21.0,Sting,T,0,7.0,0,0
@@ -4908,7 +4818,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 9213,Eragon,X360,2006.0,Action,Vivendi Games,0.12,0.01,0.0,0.01,0.14,48.0,32.0,5.7,24.0,Stormfront Studios,T,0,10.0,0,0
 9214,Dynasty Warriors 7: Empires,PS3,2012.0,Action,Ubisoft Annecy,0.0,0.0,0.14,0.0,0.14,63.0,20.0,8.0,22.0,Omega Force,T,1,4.0,1,0
 9215,Super Puzzle Fighter II Turbo,PS,1996.0,Puzzle,Virgin Interactive,0.08,0.05,0.0,0.01,0.14,83.0,9.0,7.4,5.0,Capcom,E,0,20.0,1,0
-9219,Bejeweled 3,X360,,Puzzle,Unknown,0.13,0.0,0.0,0.01,0.14,78.0,13.0,8.4,11.0,PopCap,E,1,,0,0
 9225,Dead Island Definitive Collection,PS4,2016.0,Action,Deep Silver,0.03,0.07,0.01,0.02,0.14,63.0,32.0,6.4,45.0,Techland,M,0,0.0,0,0
 9229,Blazing Angels 2: Secret Missions of WWII,X360,2007.0,Simulation,Ubisoft,0.11,0.02,0.0,0.01,0.14,72.0,24.0,7.8,12.0,Ubisoft Romania,T,0,9.0,0,0
 9231,Rayman Arena,GC,2002.0,Racing,Ubisoft,0.11,0.03,0.0,0.0,0.14,60.0,10.0,7.2,6.0,Ubisoft,E,0,14.0,1,0
@@ -5004,7 +4913,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 9480,Shrek Super Party,XB,2002.0,Misc,TDK Mediactive,0.1,0.03,0.0,0.0,0.13,33.0,9.0,8.0,11.0,Mass Media,E,1,14.0,0,0
 9481,Venetica,X360,2010.0,Role-Playing,DTP Entertainment,0.09,0.03,0.0,0.01,0.13,42.0,14.0,7.3,18.0,Deck 13,T,0,6.0,0,0
 9485,Persona 4: Arena,X360,2012.0,Fighting,Atlus,0.08,0.01,0.03,0.01,0.13,83.0,21.0,7.3,60.0,Arc System Works,T,0,4.0,0,0
-9486,Street Fighter IV,PC,,Fighting,Capcom,0.07,0.05,0.0,0.02,0.13,91.0,23.0,8.0,352.0,Capcom,T,1,,1,0
 9487,Cabela's Alaskan Adventure,X360,2006.0,Sports,Activision,0.12,0.0,0.0,0.01,0.13,48.0,11.0,5.6,17.0,FUN Labs,T,0,10.0,0,0
 9489,Heroes of the Pacific,XB,2005.0,Simulation,Codemasters,0.1,0.03,0.0,0.0,0.13,76.0,33.0,8.2,5.0,IR Gurus Interactive Ltd.,T,1,11.0,0,0
 9490,RollerCoaster Tycoon,XB,2003.0,Strategy,Atari,0.1,0.03,0.0,0.0,0.13,62.0,8.0,8.3,12.0,Atari,E,1,13.0,0,0
@@ -5084,8 +4992,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 9693,Guilty Gear X,PS2,2001.0,Fighting,Sammy Corporation,0.06,0.05,0.0,0.02,0.12,79.0,15.0,7.8,16.0,Arc System Works,T,0,15.0,0,0
 9694,Obscure: The Aftermath,Wii,2008.0,Action,Playlogic Game Factory,0.11,0.0,0.0,0.01,0.12,53.0,19.0,8.1,14.0,Hydravision,M,1,8.0,0,0
 9700,Disney's PK: Out of the Shadows,PS2,2002.0,Platform,Ubisoft,0.06,0.05,0.0,0.02,0.12,49.0,14.0,5.0,4.0,Ubisoft,E,0,14.0,1,0
-9704,Record of Agarest War Zero,PS3,,Strategy,Ghostlight,0.09,0.0,0.03,0.01,0.12,50.0,8.0,6.7,37.0,Compile Heart,T,0,,0,0
-9707,Rocksmith,PC,,Misc,Unknown,0.06,0.04,0.0,0.01,0.12,78.0,5.0,8.1,57.0,Ubisoft,T,1,,1,0
 9710,Conception II: Children of the Seven Stars,3DS,2013.0,Role-Playing,Screenlife,0.09,0.0,0.03,0.01,0.12,62.0,11.0,7.7,44.0,Spike,M,0,3.0,0,0
 9716,Puzzle Quest: Challenge of the Warlords,PS2,2007.0,Puzzle,D3Publisher,0.06,0.05,0.0,0.02,0.12,78.0,11.0,7.0,6.0,Infinite Interactive,E10+,0,9.0,0,0
 9717,Chessmaster: The Art of Learning,PSP,2008.0,Misc,Ubisoft,0.11,0.0,0.0,0.01,0.12,64.0,4.0,8.4,18.0,Ubisoft,E,1,8.0,1,0
@@ -5131,12 +5037,9 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 9803,Hatsune Miku: Project Diva X,PSV,2016.0,Misc,Sega,0.01,0.0,0.1,0.0,0.12,83.0,5.0,8.0,22.0,Sega,T,1,0.0,0,0
 9810,Godzilla Unleashed: Double Smash,DS,2007.0,Action,Atari,0.11,0.0,0.0,0.01,0.12,28.0,18.0,4.9,8.0,Santa Cruz Games,E,0,9.0,0,0
 9815,Dishonored 2,PC,2016.0,Action,Bethesda Softworks,0.04,0.07,0.0,0.01,0.12,86.0,37.0,6.0,383.0,Arkane Studios,M,0,0.0,0,0
-9818,Street Hoops,GC,,Sports,Unknown,0.09,0.02,0.0,0.0,0.12,56.0,9.0,7.3,7.0,Black Ops Entertainment,T,0,,0,0
 9825,NPPL: Championship Paintball 2009,X360,2008.0,Shooter,Activision Value,0.1,0.01,0.0,0.01,0.12,44.0,9.0,7.3,9.0,FUN Labs,E10+,0,8.0,0,0
 9827,Atelier Annie: Alchemists of Sera Island,DS,2009.0,Role-Playing,Gust,0.08,0.0,0.03,0.01,0.12,70.0,11.0,6.7,15.0,Gust,E10+,0,7.0,0,0
-9828,WRC: FIA World Rally Championship,X360,,Racing,Black Bean Games,0.0,0.1,0.0,0.02,0.12,66.0,24.0,6.0,4.0,Milestone S.r.l,E10+,0,,0,0
 9830,WWE SmackDown vs Raw 2008,DS,2007.0,Fighting,THQ,0.11,0.0,0.0,0.01,0.12,61.0,12.0,6.6,13.0,Amaze Entertainment,T,0,9.0,0,0
-9831,Godzilla: Destroy All Monsters Melee,XB,,Fighting,Unknown,0.09,0.03,0.0,0.0,0.12,71.0,20.0,6.8,8.0,"Pipeworks Software, Inc.",T,0,,0,0
 9832,College Hoops 2K6,X360,2006.0,Sports,Take-Two Interactive,0.11,0.0,0.0,0.01,0.12,70.0,17.0,7.3,11.0,2K Sports,E,0,10.0,0,0
 9842,Fat Princess: Fistful of Cake,PSP,2010.0,Action,Sony Computer Entertainment,0.08,0.02,0.0,0.02,0.12,74.0,33.0,8.7,25.0,SuperVillain Studios,T,1,6.0,0,0
 9845,Sonic Adventure 2,DC,2001.0,Platform,Sega,0.0,0.0,0.12,0.0,0.12,89.0,18.0,8.6,236.0,Sonic Team,E,1,15.0,0,0
@@ -5213,7 +5116,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 10042,Monster Madness: Battle for Suburbia,X360,2007.0,Shooter,SouthPeak Games,0.1,0.0,0.0,0.01,0.11,55.0,29.0,5.2,18.0,"Artificial Studios, Immersion Software & Graphics",T,0,9.0,0,0
 10045,Tom Clancy's EndWar,PSP,2008.0,Strategy,Ubisoft,0.1,0.01,0.0,0.01,0.11,68.0,7.0,5.9,8.0,"Funatics Software, Funatics",T,0,8.0,0,0
 10050,NFL Head Coach 09,X360,2008.0,Sports,Electronic Arts,0.11,0.0,0.0,0.01,0.11,67.0,14.0,8.4,28.0,EA Tiburon,E,1,8.0,1,0
-10051,Star Trek: Conquest,PS2,,Strategy,Bethesda Softworks,0.06,0.04,0.0,0.01,0.11,54.0,15.0,9.1,10.0,4J Studios,E,1,,0,0
 10052,Blood Drive,X360,2010.0,Racing,Activision,0.09,0.01,0.0,0.01,0.11,40.0,21.0,6.5,10.0,Sidhe Interactive,M,0,6.0,0,0
 10055,Phantom Dust,XB,2004.0,Action,Microsoft Game Studios,0.08,0.02,0.0,0.0,0.11,81.0,37.0,8.5,35.0,Microsoft Game Studios Japan,T,1,12.0,0,0
 10060,Growlanser Generations,PS2,2003.0,Role-Playing,Atlus,0.06,0.04,0.0,0.01,0.11,81.0,19.0,7.7,19.0,Career Soft,T,0,13.0,0,0
@@ -5590,7 +5492,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 11107,Freestyle Metal X,PS2,2003.0,Racing,Midway Games,0.04,0.03,0.0,0.01,0.09,67.0,25.0,8.3,17.0,Deibus Studios,T,1,13.0,0,0
 11112,Dark Angel: Vampire Apocalypse,PS2,2001.0,Role-Playing,Metro 3D,0.04,0.03,0.0,0.01,0.09,53.0,9.0,5.6,5.0,Metro3D,T,0,15.0,0,0
 11114,Damnation,PS3,2009.0,Shooter,Codemasters,0.07,0.01,0.0,0.01,0.09,36.0,36.0,2.8,40.0,Blue Omega,M,0,7.0,0,0
-11120,Super Puzzle Fighter II,GBA,,Puzzle,Capcom,0.06,0.02,0.0,0.0,0.09,83.0,22.0,9.5,4.0,Atomic Planet Entertainment,E,1,,0,0
 11129,Supreme Commander,X360,2008.0,Strategy,505 Games,0.07,0.01,0.0,0.01,0.09,56.0,24.0,5.7,19.0,Hellbent Games,E10+,0,8.0,0,0
 11131,Transworld Snowboarding,XB,2002.0,Sports,Atari,0.07,0.02,0.0,0.0,0.09,74.0,14.0,9.2,14.0,Housemarque,T,1,14.0,0,0
 11133,World Soccer Winning Eleven 8 International,XB,2004.0,Sports,Konami Digital Entertainment,0.07,0.02,0.0,0.0,0.09,90.0,25.0,8.4,11.0,KCET,E,1,12.0,0,0
@@ -5836,7 +5737,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 11820,Pac-Man World 3,PSP,2005.0,Platform,Namco Bandai Games,0.07,0.0,0.0,0.01,0.07,61.0,9.0,6.0,4.0,Blitz Games,E,0,11.0,0,0
 11821,Rogue Trooper: Quartz Zone Massacre,Wii,2009.0,Shooter,Reef Entertainment,0.06,0.0,0.0,0.01,0.07,70.0,14.0,8.2,5.0,Rebellion,T,1,7.0,0,0
 11829,Damage Inc.: Pacific Squadron WWII,X360,2012.0,Simulation,Mad Catz,0.07,0.0,0.0,0.01,0.07,49.0,24.0,5.5,6.0,Mad Catz,T,0,4.0,0,0
-11833,Smashing Drive,GC,,Racing,Unknown,0.06,0.01,0.0,0.0,0.07,47.0,18.0,5.2,6.0,Point of View,T,0,,0,0
 11838,F.E.A.R. 2: Project Origin,PC,2009.0,Shooter,Warner Bros. Interactive Entertainment,0.02,0.05,0.0,0.01,0.07,79.0,49.0,7.8,520.0,Monolith Productions,M,0,7.0,0,0
 11840,Toy Soldiers: War Chest,PS4,2015.0,Action,Ubisoft,0.06,0.0,0.0,0.01,0.07,62.0,19.0,7.7,61.0,Krome Studios,,0,1.0,0,0
 11841,Godai: Elemental Force,PS2,2002.0,Action,3DO,0.04,0.03,0.0,0.01,0.07,27.0,10.0,3.8,19.0,3DO,T,0,14.0,0,0
@@ -5869,10 +5769,8 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 11934,Speed Zone,Wii,2009.0,Racing,Bethesda Softworks,0.01,0.05,0.0,0.01,0.07,37.0,14.0,3.8,11.0,Awesome Play Ltd.,E,0,7.0,0,0
 11938,James Cameron's Dark Angel,XB,2002.0,Action,Vivendi Games,0.05,0.02,0.0,0.0,0.07,47.0,17.0,8.3,6.0,Radical Entertainment,T,1,14.0,0,0
 11940,Aqua Teen Hunger Force: Zombie Ninja Pro-Am,PS2,2007.0,Racing,Midway Games,0.03,0.03,0.0,0.01,0.07,37.0,19.0,5.9,10.0,Creat Studios,M,0,9.0,0,0
-11944,Dream Trigger 3D,3DS,,Shooter,D3Publisher,0.04,0.02,0.0,0.01,0.07,54.0,24.0,6.3,29.0,"Art Co., Ltd.",E,0,,0,0
 11951,Operation Darkness,X360,2007.0,Role-Playing,Success,0.07,0.0,0.0,0.01,0.07,46.0,22.0,7.0,21.0,Success,M,0,9.0,0,0
 11954,Galerians: Ash,PS2,2002.0,Adventure,Sammy Corporation,0.03,0.03,0.0,0.01,0.07,50.0,22.0,7.9,11.0,Polygon Magic,T,0,14.0,0,0
-11955,Dead Island: Riptide,PC,,Action,Deep Silver,0.0,0.07,0.0,0.01,0.07,61.0,35.0,6.0,441.0,Techland,M,0,,0,0
 11957,R-Type Command,PSP,2007.0,Strategy,Rising Star Games,0.05,0.0,0.01,0.01,0.07,69.0,29.0,6.5,6.0,Irem,E10+,0,9.0,0,0
 11961,Haunting Ground,PS2,2005.0,Action,Capcom,0.03,0.03,0.0,0.01,0.07,67.0,33.0,8.8,44.0,Capcom,M,1,11.0,1,0
 11964,Grand Kingdom,PS4,2015.0,Role-Playing,Nippon Ichi Software,0.03,0.0,0.03,0.01,0.07,78.0,33.0,8.1,63.0,Spike Chunsoft,T,1,1.0,0,0
@@ -5888,7 +5786,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 11997,Child of Light,PSV,2014.0,Role-Playing,Ubisoft,0.0,0.04,0.02,0.01,0.07,83.0,14.0,7.8,108.0,Ubisoft Montreal,E10+,0,2.0,1,0
 12001,Silent Hill: Origins,PS2,2008.0,Action,Konami Digital Entertainment,0.03,0.03,0.0,0.01,0.07,70.0,21.0,7.4,59.0,Climax Group,M,0,8.0,0,0
 12011,Harry Potter and the Sorcerer's Stone,XB,2003.0,Action,Electronic Arts,0.05,0.02,0.0,0.0,0.07,59.0,11.0,6.0,5.0,Warthog,E,0,13.0,0,0
-12012,McFarlane's Evil Prophecy,PS2,,Action,Konami Digital Entertainment,0.03,0.03,0.0,0.01,0.07,34.0,28.0,3.2,5.0,Konami,M,0,,1,0
 12025,Damnation,X360,2009.0,Shooter,Codemasters,0.06,0.01,0.0,0.01,0.07,36.0,39.0,5.6,50.0,Blue Omega,M,0,7.0,0,0
 12026,Samurai Warriors,XB,2004.0,Action,Tecmo Koei,0.05,0.02,0.0,0.0,0.07,71.0,20.0,9.0,5.0,Omega Force,T,1,12.0,1,0
 12030,FIFA Soccer 2004,GC,2003.0,Sports,Electronic Arts,0.05,0.01,0.0,0.0,0.07,83.0,17.0,6.2,12.0,EA Canada,E,0,13.0,1,0
@@ -5899,7 +5796,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 12038,The Guy Game,XB,2004.0,Misc,Gathering of Developers,0.05,0.02,0.0,0.0,0.07,47.0,20.0,5.4,7.0,Top Heavy Studios,M,0,12.0,0,0
 12043,Ghost in the Shell: Stand Alone Complex,PSP,2005.0,Adventure,Atari,0.06,0.0,0.0,0.01,0.07,61.0,23.0,7.4,14.0,G-Artists,T,0,11.0,0,0
 12045,Open Season,Wii,2006.0,Platform,Ubisoft,0.06,0.0,0.0,0.01,0.07,49.0,5.0,5.6,7.0,Ubisoft,E10+,0,10.0,1,0
-12047,Drake of the 99 Dragons,XB,,Shooter,Unknown,0.05,0.01,0.0,0.0,0.07,22.0,16.0,1.8,37.0,Idol FX,T,0,,0,0
 12051,Crimson Sea 2,PS2,2004.0,Action,Tecmo Koei,0.03,0.03,0.0,0.01,0.07,75.0,27.0,8.3,6.0,Koei,T,1,12.0,0,0
 12052,Tokyo Twilight Ghost Hunters,PSV,2014.0,Role-Playing,Aksys Games,0.03,0.01,0.02,0.01,0.07,63.0,12.0,7.0,16.0,TOYBOX,T,0,2.0,0,0
 12056,Saint Seiya: Brave Soldiers,PS3,2013.0,Fighting,Namco Bandai Games,0.0,0.01,0.06,0.0,0.07,55.0,32.0,7.4,45.0,Dimps Corporation,,0,3.0,0,0
@@ -5958,14 +5854,12 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 12200,Resident Evil 5,PC,2009.0,Action,Capcom,0.01,0.04,0.0,0.01,0.07,86.0,30.0,7.1,597.0,Capcom,M,0,7.0,1,0
 12201,X-Men: The Official Game,GBA,2006.0,Action,Activision,0.05,0.02,0.0,0.0,0.07,55.0,9.0,9.3,6.0,WayForward,E10+,1,10.0,0,0
 12221,The King of Fighters 02/03,PS2,2005.0,Fighting,SNK,0.03,0.03,0.0,0.01,0.07,73.0,28.0,8.8,14.0,SNK Playmore,T,1,11.0,0,0
-12222,Port Royale 3,X360,,Simulation,Kalypso Media,0.06,0.0,0.0,0.01,0.07,56.0,11.0,4.5,6.0,Kalypso,T,0,,0,0
 12227,Armored Core: Nine Breaker,PS2,2004.0,Simulation,505 Games,0.03,0.03,0.0,0.01,0.07,57.0,25.0,8.2,5.0,From Software,T,1,12.0,0,0
 12229,Terraria,PS4,2014.0,Action,505 Games,0.0,0.05,0.01,0.01,0.07,83.0,4.0,7.9,47.0,Engine Software,T,0,2.0,0,0
 12231,Worms 3D,GC,2003.0,Strategy,Sega,0.05,0.01,0.0,0.0,0.07,69.0,23.0,7.6,19.0,Team 17,T,0,13.0,0,0
 12233,TRON: Evolution,PC,2010.0,Action,Disney Interactive Studios,0.06,0.0,0.0,0.0,0.07,57.0,11.0,6.0,25.0,Propaganda Games,T,0,6.0,0,0
 12238,The Guided Fate Paradox,PS3,2013.0,Role-Playing,Nippon Ichi Software,0.0,0.0,0.06,0.0,0.07,74.0,27.0,7.8,66.0,Nippon Ichi Software,T,0,3.0,0,0
 12239,Mayhem 3D,X360,2011.0,Racing,Evolved Games,0.06,0.0,0.0,0.0,0.07,47.0,4.0,8.6,9.0,Zoo Games,E10+,1,5.0,0,0
-12242,Alex Rider: Stormbreaker,DS,,Action,THQ,0.06,0.0,0.0,0.0,0.07,48.0,11.0,6.1,10.0,Altron,T,0,,0,0
 12247,WipEout HD Fury,PS3,2009.0,Racing,Sony Computer Entertainment,0.0,0.05,0.0,0.01,0.07,89.0,15.0,8.4,115.0,Studio Liverpool,E10+,1,7.0,0,0
 12248,Fallout: Brotherhood of Steel,PS2,2004.0,Role-Playing,Avalon Interactive,0.03,0.03,0.0,0.01,0.07,64.0,31.0,4.1,51.0,Interplay,M,0,12.0,0,0
 12253,"Flower, Sun, and Rain",DS,2008.0,Adventure,Rising Star Games,0.06,0.0,0.0,0.0,0.07,54.0,37.0,7.1,15.0,h.a.n.d. Inc.,T,0,8.0,0,0
@@ -6130,7 +6024,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 12777,Tokyo Twilight Ghost Hunters,PS3,2014.0,Role-Playing,Aksys Games,0.03,0.0,0.02,0.01,0.06,64.0,11.0,6.4,17.0,TOYBOX,T,0,2.0,0,0
 12779,MotorStorm RC,PSV,2012.0,Racing,Sony Computer Entertainment,0.0,0.04,0.0,0.01,0.06,78.0,39.0,6.8,123.0,Evolution Studios,E,0,4.0,0,0
 12783,Harry Potter and the Sorcerer's Stone,PC,2001.0,Action,Electronic Arts,0.01,0.04,0.0,0.01,0.06,65.0,11.0,7.8,76.0,KnowWonder,E,0,15.0,0,0
-12785,Tom Clancy's Rainbow Six: Critical Hour,XB,,Shooter,Unknown,0.04,0.01,0.0,0.0,0.06,54.0,10.0,3.6,14.0,Ubisoft Quebec,M,0,,0,0
 12787,Scurge: Hive,DS,2006.0,Action,SouthPeak Games,0.05,0.0,0.0,0.0,0.06,70.0,29.0,8.6,5.0,"Orbital Media, Inc.",E10+,1,10.0,0,0
 12789,Remember Me,PC,2013.0,Action,Capcom,0.0,0.05,0.0,0.0,0.06,65.0,26.0,7.4,1007.0,DONTNOD Entertainment,M,0,3.0,0,0
 12813,NBA Live 07,XB,2006.0,Sports,Electronic Arts,0.04,0.01,0.0,0.0,0.06,69.0,14.0,6.8,13.0,EA Sports,E,0,10.0,1,0
@@ -6157,7 +6050,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 12892,Hearts of Iron IV,PC,2016.0,Strategy,Paradox Interactive,0.0,0.05,0.0,0.0,0.05,83.0,36.0,6.9,306.0,Paradox Development Studio,,0,0.0,0,0
 12893,Wing Commander: Prophecy,GBA,2003.0,Simulation,"Destination Software, Inc",0.04,0.01,0.0,0.0,0.05,70.0,8.0,8.3,7.0,Raylight Studios,T,1,13.0,0,0
 12895,Marc Ecko's Getting Up: Contents Under Pressure,PS2,2006.0,Action,Atari,0.03,0.02,0.0,0.01,0.05,69.0,39.0,7.2,31.0,Double Helix Games,M,0,10.0,0,0
-12897,Captain America: Super Soldier,Wii,,Action,Sega,0.05,0.0,0.0,0.0,0.05,57.0,16.0,6.0,6.0,High Voltage Software,T,0,,0,0
 12898,Sega Soccer Slam,XB,2002.0,Sports,Sega,0.04,0.01,0.0,0.0,0.05,80.0,15.0,8.5,10.0,Black Box,E,1,14.0,0,0
 12899,Enemy Front,PS3,2014.0,Shooter,City Interactive,0.01,0.04,0.0,0.01,0.05,43.0,12.0,6.0,75.0,CI Games,M,0,2.0,0,0
 12910,Front Mission Evolved,PC,2010.0,Shooter,Square Enix,0.05,0.0,0.0,0.0,0.05,63.0,13.0,5.1,48.0,Double Helix Games,T,0,6.0,0,0
@@ -6178,7 +6070,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 12966,Mighty No. 9,PS4,2016.0,Platform,Deep Silver,0.04,0.0,0.0,0.01,0.05,52.0,64.0,3.5,282.0,Inti Creates,E10+,0,0.0,0,0
 12969,Samurai Champloo: Sidetracked,PS2,2006.0,Action,Namco Bandai Games,0.03,0.02,0.0,0.01,0.05,66.0,26.0,7.2,6.0,Grasshopper Manufacture,T,0,10.0,0,0
 12970,Dead or Alive Xtreme 3: Fortune,PS4,2016.0,Sports,Tecmo Koei,0.0,0.0,0.05,0.0,0.05,43.0,9.0,7.8,110.0,Team Ninja,,0,0.0,0,0
-12971,Drill Dozer,GBA,,Platform,Unknown,0.04,0.01,0.0,0.0,0.05,81.0,34.0,8.3,10.0,Game Freak,E,1,,0,0
 12978,Medal of Honor: Airborne,PC,2007.0,Shooter,Electronic Arts,0.0,0.04,0.0,0.01,0.05,78.0,38.0,7.3,204.0,Electronic Arts,T,0,9.0,1,0
 12991,Men of War: Assault Squad,PC,2011.0,Strategy,1C Company,0.01,0.03,0.0,0.01,0.05,77.0,21.0,8.2,93.0,"THQ, 1C, 1C Company",T,1,5.0,0,0
 12994,Rhapsody: A Musical Adventure,DS,2008.0,Role-Playing,Nippon Ichi Software,0.05,0.0,0.0,0.0,0.05,67.0,24.0,6.8,12.0,Nippon Ichi Software,E,0,8.0,0,0
@@ -6226,7 +6117,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 13131,Second Sight,GC,2004.0,Adventure,Codemasters,0.04,0.01,0.0,0.0,0.05,77.0,34.0,8.5,13.0,Free Radical Design,T,1,12.0,0,0
 13139,Rave Master,GC,2002.0,Fighting,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05,60.0,15.0,6.3,4.0,Konami,T,0,14.0,1,0
 13140,Bejeweled Twist,PC,2008.0,Puzzle,PopCap Games,0.01,0.04,0.0,0.01,0.05,78.0,12.0,7.3,11.0,PopCap,E,0,8.0,0,0
-13143,GRID,DS,,Racing,Codemasters,0.04,0.0,0.0,0.0,0.05,79.0,19.0,8.1,15.0,Firebrand Games,E,1,,0,0
 13144,Steins;Gate 0,PS4,2015.0,Adventure,PQube,0.0,0.0,0.05,0.0,0.05,81.0,17.0,8.3,29.0,5pb,M,1,1.0,0,0
 13145,Ivy the Kiwi?,DS,2010.0,Puzzle,Rising Star Games,0.04,0.0,0.0,0.0,0.05,69.0,20.0,6.3,4.0,Prope,E,0,6.0,0,0
 13148,Hail to the Chimp,PS3,2008.0,Misc,Gamecock,0.05,0.0,0.0,0.0,0.05,51.0,19.0,4.5,4.0,Wideload Games Inc.,T,0,8.0,0,0
@@ -6238,7 +6128,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 13176,Dark Summit,GC,2002.0,Sports,THQ,0.04,0.01,0.0,0.0,0.05,68.0,16.0,4.5,4.0,Radical Entertainment,T,0,14.0,0,0
 13186,Star Wars: Republic Commando,PC,2005.0,Shooter,LucasArts,0.0,0.04,0.0,0.01,0.05,78.0,34.0,8.7,279.0,LucasArts,T,1,11.0,0,0
 13189,The Lost Vikings,GBA,2003.0,Puzzle,Activision,0.04,0.01,0.0,0.0,0.05,75.0,16.0,9.1,15.0,Mass Media,E,1,13.0,0,0
-13196,Tour de France 2011,X360,,Racing,Focus Home Interactive,0.0,0.04,0.0,0.01,0.05,46.0,7.0,7.6,5.0,Cyanide,,0,,0,0
 13202,Plants vs. Zombies,PC,2009.0,Strategy,PopCap Games,0.0,0.04,0.0,0.01,0.05,87.0,41.0,8.9,891.0,PopCap,E10+,1,7.0,0,0
 13204,Secret Files: Tunguska,DS,2008.0,Adventure,Deep Silver,0.04,0.01,0.0,0.0,0.05,71.0,6.0,7.6,5.0,"10tacle Studios, Fusionsphere Systems",T,0,8.0,0,0
 13206,Stretch Panic,PS2,2001.0,Platform,Midas Interactive Entertainment,0.02,0.02,0.0,0.01,0.05,65.0,14.0,7.8,4.0,Treasure,T,0,15.0,0,0
@@ -6374,7 +6263,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 13668,Nitroplus Blasterz: Heroines Infinite Duel,PS4,2015.0,Fighting,Marvelous Interactive,0.01,0.0,0.02,0.0,0.04,70.0,33.0,6.9,28.0,"Examu, Marvelous Inc.",T,0,1.0,0,0
 13670,Thrillville: Off the Rails,DS,2007.0,Strategy,LucasArts,0.03,0.01,0.0,0.0,0.04,59.0,6.0,6.2,5.0,DC Studios,E,0,9.0,0,0
 13672,Bloody Roar Extreme,XB,2003.0,Fighting,Hudson Soft,0.03,0.01,0.0,0.0,0.04,61.0,22.0,8.6,9.0,Eighting/Raizing,T,1,13.0,0,0
-13673,Clockwork Empires,PC,,Strategy,Unknown,0.0,0.04,0.0,0.0,0.04,58.0,7.0,3.8,5.0,Gaslamp Games,RP,0,,0,0
 13674,Split/Second,PC,2010.0,Racing,Disney Interactive Studios,0.0,0.04,0.0,0.01,0.04,79.0,18.0,8.2,116.0,Black Rock Studio,E10+,1,6.0,0,0
 13676,Resident Evil 6,PC,2012.0,Shooter,Capcom,0.0,0.04,0.0,0.0,0.04,69.0,18.0,5.9,868.0,"Capcom, QLOC",M,0,4.0,0,0
 13678,Dead Head Fred,PSP,2007.0,Action,D3Publisher,0.04,0.0,0.0,0.0,0.04,75.0,30.0,7.3,23.0,Vicious Cycle,M,0,9.0,0,0
@@ -6407,11 +6295,9 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 13777,Psycho-Pass: Mandatory Happiness,PS4,2016.0,Adventure,Nippon Ichi Software,0.03,0.0,0.0,0.01,0.04,72.0,26.0,8.3,19.0,5pb,T,1,0.0,0,0
 13779,Virtua Tennis 4,PC,2011.0,Sports,Sega,0.0,0.03,0.0,0.01,0.04,66.0,5.0,7.3,43.0,Sega,E,0,5.0,0,0
 13781,Shattered Union,XB,2005.0,Strategy,Take-Two Interactive,0.03,0.01,0.0,0.0,0.04,66.0,17.0,6.9,7.0,PopTop Software,T,0,11.0,0,0
-13782,GRID,PC,,Racing,Codemasters,0.0,0.03,0.0,0.01,0.04,87.0,25.0,7.9,463.0,Codemasters,E,0,,1,0
 13787,Unchained Blades ,3DS,2011.0,Role-Playing,FuRyu,0.0,0.0,0.04,0.0,0.04,65.0,8.0,7.8,16.0,FuRyu,T,0,5.0,0,0
 13788,Terraria,XOne,2014.0,Action,505 Games,0.0,0.04,0.0,0.0,0.04,84.0,5.0,7.7,29.0,Engine Software,T,0,2.0,0,0
 13790,Company of Heroes: Opposing Fronts,PC,2007.0,Strategy,THQ,0.01,0.03,0.0,0.01,0.04,87.0,36.0,8.6,235.0,Relic,M,1,9.0,0,0
-13793,NHL Hitz Pro,GC,,Sports,Unknown,0.03,0.01,0.0,0.0,0.04,81.0,15.0,7.8,5.0,Next Level Games,E,0,,0,0
 13805,Superman: Countdown to Apokolips,GBA,2003.0,Platform,Atari,0.03,0.01,0.0,0.0,0.04,47.0,5.0,5.7,6.0,Mistic Software,E,0,13.0,0,0
 13811,Worms 4: Mayhem,XB,2005.0,Strategy,Codemasters,0.03,0.01,0.0,0.0,0.04,69.0,27.0,9.2,6.0,Team 17,T,1,11.0,0,0
 13813,Rise of Nations,PC,2003.0,Strategy,Microsoft Game Studios,0.01,0.02,0.0,0.01,0.04,89.0,30.0,9.0,274.0,Big Huge Games,T,1,13.0,0,0
@@ -6513,7 +6399,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 14206,Hitman: Blood Money,PC,2006.0,Action,Eidos Interactive,0.0,0.03,0.0,0.01,0.03,82.0,35.0,8.8,528.0,Io Interactive,M,1,10.0,0,0
 14209,Duke Nukem 3D: 20th Anniversary World Tour,PS4,2016.0,Shooter,Gearbox Software,0.03,0.0,0.0,0.01,0.03,77.0,15.0,6.9,15.0,Gearbox Software,M,0,0.0,0,0
 14210,Section 8,PC,2009.0,Shooter,SouthPeak Games,0.02,0.01,0.0,0.0,0.03,72.0,31.0,7.0,78.0,TimeGate Studios,T,0,7.0,0,0
-14212,Sabre Wulf,GBA,,Platform,THQ,0.02,0.01,0.0,0.0,0.03,75.0,27.0,8.0,4.0,Rare Ltd.,E,1,,0,0
 14213,Alpha Protocol,PC,2010.0,Role-Playing,Sega,0.0,0.03,0.0,0.01,0.03,72.0,25.0,7.5,511.0,Obsidian Entertainment,M,0,6.0,0,0
 14214,Planescape: Torment,PC,1998.0,Role-Playing,Interplay,0.01,0.02,0.0,0.0,0.03,91.0,22.0,9.2,813.0,Black Isle Studios,T,1,18.0,0,0
 14221,Star Wars Jedi Knight: Jedi Academy,PC,2003.0,Shooter,Activision,0.0,0.03,0.0,0.0,0.03,81.0,34.0,8.6,293.0,Raven Software,T,1,13.0,0,0
@@ -6623,7 +6508,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 14727,Jack Keane,PC,2008.0,Adventure,Kalypso Media,0.0,0.02,0.0,0.0,0.03,69.0,25.0,7.0,21.0,Legacy Interactive,T,0,8.0,0,0
 14729,Monsters vs. Aliens,PC,2009.0,Action,Activision,0.01,0.01,0.0,0.0,0.03,63.0,8.0,6.2,5.0,Beenox,E10+,0,7.0,0,0
 14739,Ride,PC,2015.0,Racing,Milestone S.r.l.,0.0,0.03,0.0,0.0,0.03,68.0,8.0,4.8,30.0,Milestone S.r.l,E,0,1.0,0,0
-14748,Battle vs. Chess,PC,,Misc,TopWare Interactive,0.0,0.02,0.0,0.0,0.03,69.0,5.0,5.9,12.0,Targem Games,T,0,,0,0
 14759,LEGO Harry Potter: Years 1-4,PC,2010.0,Action,Warner Bros. Interactive Entertainment,0.02,0.01,0.0,0.0,0.03,79.0,15.0,7.9,55.0,Traveller's Tales,E10+,0,6.0,1,0
 14761,Bus Simulator 16,PC,2016.0,Simulation,Astragon,0.0,0.03,0.0,0.0,0.03,46.0,8.0,6.1,18.0,Still Alive Studios,,0,0.0,0,0
 14774,MechAssault: Phantom War,DS,2006.0,Simulation,Majesco Entertainment,0.03,0.0,0.0,0.0,0.03,66.0,16.0,4.5,4.0,Backbone Entertainment,T,0,10.0,0,0
@@ -6840,7 +6724,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 15747,NHL 2K3,GC,2002.0,Sports,Sega,0.01,0.0,0.0,0.0,0.02,89.0,11.0,7.0,6.0,Treyarch,E,0,14.0,0,0
 15753,Space Channel 5: Ulala's Cosmic Attack,GBA,2002.0,Misc,Atari,0.01,0.0,0.0,0.0,0.02,55.0,15.0,8.0,5.0,Art,E,1,14.0,0,0
 15755,Still Life 2,PC,2009.0,Adventure,Rondomedia,0.0,0.01,0.0,0.0,0.02,67.0,15.0,5.7,54.0,GameCo,M,0,7.0,0,0
-15756,Virtua Quest,PS2,,Role-Playing,Unknown,0.01,0.01,0.0,0.0,0.02,53.0,17.0,7.6,5.0,Artificial Mind and Movement,T,0,,0,0
 15762,Castle Shikigami 2,PS2,2004.0,Shooter,Play It,0.01,0.01,0.0,0.0,0.02,67.0,4.0,7.4,8.0,Alfa System,E,0,12.0,0,0
 15769,Peggle Nights,PC,2008.0,Puzzle,PopCap Games,0.0,0.01,0.0,0.0,0.02,76.0,15.0,8.1,24.0,PopCap,E,1,8.0,0,0
 15770,Pulse Racer,XB,2003.0,Racing,Jaleco,0.01,0.0,0.0,0.0,0.02,24.0,7.0,2.8,17.0,Jaleco Entertainment,E,0,13.0,0,0
@@ -6852,7 +6735,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 15807,Pirates: Legend of the Black Buccaneer,PS2,2006.0,Adventure,10TACLE Studios,0.01,0.01,0.0,0.0,0.02,42.0,4.0,7.0,5.0,WideScreen Games,T,0,10.0,0,0
 15810,East India Company,PC,2009.0,Strategy,Paradox Interactive,0.01,0.0,0.0,0.0,0.02,67.0,28.0,5.7,49.0,Nitro Games,T,0,7.0,0,0
 15815,Aedis Eclipse: Generation of Chaos,PSP,2006.0,Role-Playing,Idea Factory,0.02,0.0,0.0,0.0,0.02,62.0,20.0,6.5,11.0,"Neverland, Idea Factory",E10+,0,10.0,0,0
-15818,Without Warning,XB,,Shooter,Capcom,0.01,0.0,0.0,0.0,0.02,45.0,25.0,2.0,5.0,CiRCLE,M,0,,0,0
 15822,Digimon Rumble Arena,PS,2001.0,Fighting,Namco Bandai Games,0.01,0.01,0.0,0.0,0.02,64.0,5.0,8.8,71.0,Bandai,E,1,15.0,0,0
 15829,Goblin Commander: Unleash the Horde,GC,2003.0,Strategy,Jaleco,0.01,0.0,0.0,0.0,0.02,71.0,19.0,7.8,6.0,Jaleco Entertainment,T,0,13.0,0,0
 15830,Final Fight: Streetwise,XB,2006.0,Action,Capcom,0.01,0.0,0.0,0.0,0.02,42.0,29.0,4.0,4.0,Secret Level,M,0,10.0,0,0
@@ -6913,7 +6795,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 16148,Don Bradman Cricket 14,PS3,2014.0,Sports,Tru Blu Entertainment,0.0,0.01,0.0,0.0,0.01,73.0,5.0,6.9,55.0,Big Ant Studios,E,0,2.0,0,0
 16150,Codename: Panzers Phase Two,PC,2005.0,Strategy,CDV Software Entertainment,0.0,0.01,0.0,0.0,0.01,80.0,36.0,8.1,15.0,Stormregion,T,1,11.0,0,0
 16156,The Last Remnant,PC,2009.0,Role-Playing,Square Enix,0.0,0.01,0.0,0.0,0.01,66.0,23.0,8.3,240.0,Square Enix,M,1,7.0,0,0
-16159,Aquaman: Battle for Atlantis,XB,,Action,Unknown,0.01,0.0,0.0,0.0,0.01,26.0,13.0,2.7,15.0,Lucky Chicken,T,0,,0,0
 16161,Call of Juarez,PC,2006.0,Shooter,Ubisoft,0.0,0.01,0.0,0.0,0.01,72.0,25.0,7.8,223.0,Techland,M,0,10.0,0,0
 16163,Unreal Tournament 2003,PC,2002.0,Shooter,Atari,0.0,0.01,0.0,0.0,0.01,86.0,27.0,8.2,98.0,Digital Extremes,M,1,14.0,0,0
 16164,Neverwinter Nights 2: Mask of the Betrayer,PC,2007.0,Role-Playing,Atari,0.0,0.01,0.0,0.0,0.01,82.0,25.0,8.8,182.0,Obsidian Entertainment,T,1,9.0,0,0
@@ -6936,7 +6817,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 16263,htoL#NiQ: The Firefly Diary,PSV,2014.0,Platform,Nippon Ichi Software,0.0,0.0,0.01,0.0,0.01,58.0,16.0,7.7,23.0,Nippon Ichi Software,T,0,2.0,0,0
 16267,Worms: WMD,XOne,2016.0,Action,Sold Out,0.01,0.0,0.0,0.0,0.01,75.0,24.0,8.1,7.0,Team 17,E10+,1,0.0,0,0
 16276,Doki-Doki Universe,PSV,2013.0,Adventure,Sony Computer Entertainment,0.0,0.01,0.0,0.0,0.01,66.0,7.0,5.7,16.0,SCEA,E10+,0,3.0,0,0
-16280,Homeworld Remastered Collection,PC,,Strategy,,0.0,0.01,0.0,0.0,0.01,86.0,49.0,8.2,324.0,Gearbox Software,E10+,1,,0,0
 16283,Sherlock Holmes: The Devil's Daughter,PC,2016.0,Adventure,Bigben Interactive,0.0,0.01,0.0,0.0,0.01,65.0,18.0,7.3,72.0,Frogwares,T,0,0.0,0,0
 16290,Metal Slug Anthology,PS2,2007.0,Shooter,Ignition Entertainment,0.0,0.0,0.01,0.0,0.01,80.0,20.0,8.1,16.0,Terminal Reality,T,1,9.0,0,0
 16300,BattleForge,PC,2009.0,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01,75.0,37.0,7.0,112.0,EA Phenomic,T,0,7.0,0,0
@@ -6957,7 +6837,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 16383,Smuggler's Run,GBA,2002.0,Racing,Rebellion,0.01,0.0,0.0,0.0,0.01,41.0,5.0,4.3,12.0,Destination Software,E,0,14.0,0,0
 16396,Goat Simulator,XOne,2016.0,Simulation,Koch Media,0.0,0.01,0.0,0.0,0.01,53.0,15.0,6.3,63.0,Coffee Stain Studios,T,0,0.0,0,0
 16400,TimeShift,PC,2007.0,Shooter,Vivendi Games,0.01,0.0,0.0,0.0,0.01,71.0,30.0,7.6,124.0,Saber Interactive,M,0,9.0,0,0
-16409,Freaky Flyers,GC,,Racing,Unknown,0.01,0.0,0.0,0.0,0.01,69.0,14.0,6.5,6.0,Midway,T,0,,0,0
 16410,The Chronicles of Riddick: Assault on Dark Athena,PC,2009.0,Shooter,Vivendi Games,0.0,0.01,0.0,0.0,0.01,80.0,26.0,8.0,136.0,Starbreeze,M,1,7.0,0,0
 16415,Conflict: Denied Ops,PC,2008.0,Shooter,Eidos Interactive,0.0,0.01,0.0,0.0,0.01,58.0,18.0,4.8,54.0,Pivotal Games,M,0,8.0,0,0
 16416,Legend of Kay Anniversary,WiiU,2015.0,Action,Nordic Games,0.0,0.01,0.0,0.0,0.01,67.0,9.0,7.1,35.0,"Neon Studios, Kaiko",E10+,0,1.0,0,0
@@ -6966,7 +6845,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 16424,Mario vs. Donkey Kong: Tipping Stars,WiiU,2015.0,Puzzle,Nintendo,0.0,0.0,0.01,0.0,0.01,70.0,26.0,7.4,72.0,"Nintendo, Nintendo Software Technology",E,0,1.0,0,0
 16427,Cities: Skylines Snowfall,PC,2016.0,Simulation,Paradox Development,0.0,0.01,0.0,0.0,0.01,72.0,16.0,7.1,20.0,Colossal Order,,0,0.0,0,0
 16433,Greg Hastings' Tournament Paintball Max'd,PS2,2006.0,Shooter,Activision,0.01,0.0,0.0,0.0,0.01,70.0,8.0,9.2,32.0,Activision Value,E10+,1,10.0,0,0
-16452,Inversion,PC,,Shooter,Namco Bandai Games,0.01,0.0,0.0,0.0,0.01,59.0,6.0,6.7,107.0,Saber Interactive,M,0,,0,0
 16457,Act of Aggression,PC,2015.0,Strategy,Focus Home Interactive,0.0,0.01,0.0,0.0,0.01,71.0,37.0,7.1,93.0,Eugen Systems,,0,1.0,0,0
 16459,Powerdrome,XB,2004.0,Racing,Evolved Games,0.01,0.0,0.0,0.0,0.01,69.0,12.0,7.0,9.0,Argonaut Games,T,0,12.0,0,0
 16467,TrackMania Turbo,PC,2016.0,Action,Ubisoft,0.0,0.01,0.0,0.0,0.01,79.0,13.0,6.8,42.0,Nadeo,E,0,0.0,0,0
@@ -6981,7 +6859,6 @@ Unnamed: 0,Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sa
 16513,Ride 2,PC,2016.0,Racing,Milestone S.r.l,0.0,0.01,0.0,0.0,0.01,78.0,4.0,7.9,14.0,Milestone S.r.l,E,0,0.0,0,0
 16514,Art Academy: Home Studio,WiiU,2015.0,Misc,Nintendo,0.0,0.0,0.01,0.0,0.01,82.0,9.0,8.3,20.0,Headstrong Games,E,1,1.0,0,0
 16516,Colin McRae Rally 04,PC,2004.0,Racing,Codemasters,0.0,0.01,0.0,0.0,0.01,87.0,6.0,7.2,44.0,Codemasters,,0,12.0,1,0
-16526,Virtua Quest,GC,,Role-Playing,Unknown,0.01,0.0,0.0,0.0,0.01,55.0,19.0,5.5,12.0,Artificial Mind and Movement,T,0,,0,0
 16527,Icewind Dale II,PC,2002.0,Role-Playing,Interplay,0.0,0.01,0.0,0.0,0.01,83.0,22.0,8.3,147.0,Black Isle Studios,T,1,14.0,0,0
 16530,Dungeons 2,PS4,2016.0,Role-Playing,Kalypso Media,0.01,0.0,0.0,0.0,0.01,61.0,9.0,7.9,14.0,Kalypso,T,0,0.0,0,0
 16532,Pro Evolution Soccer 2010,PC,2009.0,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01,78.0,8.0,6.9,49.0,Konami,E,0,7.0,1,0
