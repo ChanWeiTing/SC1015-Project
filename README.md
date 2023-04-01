@@ -10,13 +10,9 @@ This is a Mini-project for SC1015 which focus on games from game datavase. For d
 6. Decision Tree
 7. Random Forest
 8. Grid Search
+9. Machine Learning Methods
 
 
-
-
-0. Data Resampling and Splitting
-0. Visualisation Regression
-0. Machine Learning Methods
 
 ## Contributors
 
