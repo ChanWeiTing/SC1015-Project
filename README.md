@@ -2,7 +2,7 @@
 This is a Mini-project for SC1015 which focuses on predicting the success and reception of video games from a game database. For a detailed walkthrough, please view the source code in order from:
 1. Data Extraction
 2. Exploratory Analysis and Data Visualisation
-3. Advanced Visualization
+3. Further Exploratory Analysis and Data Visualisation
 4. Creating Derived Data
 5. Linear Regression
 6. Decision Tree
