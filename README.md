@@ -9,8 +9,7 @@ This is a Mini-project for SC1015 which focus on games from game datavase. For d
 5. Linear Regression
 6. Decision Tree
 7. Random Forest
-8. Grid Search
-9. Machine Learning Methods
+8. Neural Network
 
 
 
